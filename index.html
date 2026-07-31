@@ -2,22 +2,20 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Signal Mastering Console</title>
+<title>Mastering Stüdyosu</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#15130F">
+<meta name="theme-color" content="#FAFAF8">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Signal">
-<link rel="manifest" href="data:application/manifest+json;base64,eyJuYW1lIjogIlNpZ25hbCBNYXN0ZXJpbmcgQ29uc29sZSIsICJzaG9ydF9uYW1lIjogIlNpZ25hbCIsICJzdGFydF91cmwiOiAiLi9pbmRleC5odG1sIiwgImRpc3BsYXkiOiAic3RhbmRhbG9uZSIsICJiYWNrZ3JvdW5kX2NvbG9yIjogIiMxNTEzMEYiLCAidGhlbWVfY29sb3IiOiAiIzE1MTMwRiIsICJvcmllbnRhdGlvbiI6ICJhbnkiLCAiaWNvbnMiOiBbeyJzcmMiOiAiZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFNQUFBQURBQ0FJQUFBRGR2dnRRQUFBQ2lrbEVRVlI0bk8zYXUwMERRUlJBVVl5Y0V5QkVRQWNFWkM0Q2lUNElYUXNoZlZpaUNESUNPaUNnQ3pyQWlEdXdINThUVzZ0WjZlck5lTFNicTh1TE0vaXQ4NmtYd0xJSmlFUkFKQUlpRVJDSmdFZ0VSQ0lnRWdHUkNJaEVRQ1FDSWhFUWlZQklCRVFpSUJJQmtRaUlSRUFrQWlJUkVJbUFTTFpEbm5KNHZCdnlIUDdUdy9OYmY4aVlnRmJtK3ZibTZHOCszei8rWVNYelp3c2pFUkRKK0Mxc3lNNDZyZGVuNDF2WVFsOXorR25WQkNJUkVJbUFTQVJFSWlBU0FaRUlpRVJBSkFJaUVSQ0pnRWdFUkNJZ0VnR1JDSWhrdForMHZqN2QvK1JudS8zTFg2OWszVXdnRWdHUkNJaEVRQ1FDSWhFUWlZQklCRVN5Mm92RVNmems5bkpsVjVjbUVJbUFTQVJFSWlBU0FaRUlpRVJBSkFJaUVSQ0ptK2haV080SHVDWVFpWUJJQkVRaUlKSzVINktYZTdvOEVTWVFpWUJJQkVRaUlCSUJrUWlJUkVBa0FpSVJFSW1BU0FSRUlpQVNBWkVJaUVSQUpBSWlFUkNKZ0VnRVJDSWdFZ0dSQ0loRVFDUUNJaEVRaVlCSUJFUWlJQklCa1FpSVJFQWtBaUlSRUltQVNBUkVJaUFTQVpFSWlFUkFKQUlpRVJDSmdFZ0VSQ0lnRWdHUkNJaEVRQ1FDSWhFUWlZQklCRVFpSUJJQmtRaUlSRUFrQWlJUkVNbDI2Z1Vjc2R1L1RMMEV2bU1Da1FpSVJFQWtBaUtaK3lINlJDejN2NElKUkNJZ0VnR1JDSWhFUUNRQ0loRVFpWUJJQkVUaUpucWs1VjRvLzVvSlJDSWdFZ0dSQ0loRVFDUUNJaEVRaVlCSVZudVJlSUozZXBNd2dVZ0VSQ0lnRWdHUkNJaEVRQ1FDSWhFUWlZQklCRVFpSUJJQmtRaUlSRUFrQWlJWi96M1E0ZkZ1K0RObjZFUmU4eWdUaUVSQUpBSWkyVnhkWGt5OUJoYk1CQ0lSRUltQVNBUkVJaUFTQVpFSWlFUkFKQUlpRVJDSmdFZ0VSQ0lnRWdHUkNJaEVRQ1FDSWhFUWlZQklCRVFpSUJJQmtYd0JiK1VpTVlqMmJZUUFBQUFBU1VWT1JLNUNZSUk9IiwgInNpemVzIjogIjE5MngxOTIiLCAidHlwZSI6ICJpbWFnZS9wbmcifSwgeyJzcmMiOiAiZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFnQUFBQUlBQ0FJQUFBQjdHa090QUFBSDMwbEVRVlI0bk8zY3NXa2NVUlJBVWNsTXJrQUlCKzdBZ2JJcFlzRjlLSnhhTm5RZmdpbGlNd2ZxUUlHNmNPTEVtU1g4K2RxNTV4VHdlTUhDNVMzTXYzMjR2N3NCb09mTDdBVUFtRU1BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvcGJaQzN6UTg5UGo3QlVBL3ZqeDg5ZnNGVDdDQlFBUUpRQUFVZGY2RnhEOGk2L2Z2dzJkLy9ieU9uUStET1VDQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUNvSTM4SWRxV3ZjL0FmWGM1alB3VHpHeXM0OE10akxnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlDb1pmWUNITUhsZkJvNmY5MzJvZk9oeVFVQUVDVUFBRkVDQUJBbEFBQlJBZ0FRSlFBQVVRSUFFQ1VBQUZFQ0FCQWxBQUJSQWdBUUpRQUFVUUlBRUNVQUFGRUNBQkFsQUFCUkFnQVFKUUFBVVFJQUVDVUFBRkVDQUJBbEFBQlJBZ0FRSlFBQVVjdnNCYURvY2o0Tm5iOXUrOUQ1SElNTEFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JxbWIwQThMbGN6cWR4dzlkdEh6ZWM5M0lCQUVRSkFFQ1VBQUJFQ1FCQWxBQUFSQWtBUUpRQUFFUUpBRUNVQUFCRUNRQkFsQUFBUkFrQVFKVEg0SzdKMEZlNmJqelVCVEV1QUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQXFHWDJBcnpEdXUyelZ3Q093d1VBRUNVQUFGRUNBQkFsQUFCUkFnQVFKUUFBVVFJQUVDVUFBRkVDQUJBbEFBQlJBZ0FRSlFBQVVSNkRBLzdpemNFT0Z3QkFsQUFBUkFrQVFKUUFBRVFKQUVDVUFBQkVDUUJBbEFBQVJBa0FRSlFBQUVRSkFFQ1VBQUJFQ1FCQWxBQUFSQWtBUUpRQUFFUUpBRUNVQUFCRUNRQkFsQUFBUkFrQVFKUUFBRVFKQUVDVUFBQkVDUUJBMURKN0FTaGF0MzMyQ3VBQ0FLZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdDZ0JBSWdTQUlBb0FRQ0lFZ0NBS0FFQWlCSUFnQ2dCQUlnU0FJQW9BUUNJRWdDQUtBRUFpQklBZ0NnQkFJZ1NBSUFvQVFDSUVnQ0FLQUVBaUJJQWdLaGw5Z0ljd2JydHMxY0EzczBGQUJBbEFBQlJBZ0FRSlFBQVVRSUFFQ1VBQUZFQ0FCQWxBQUJSQWdBUUpRQUFVUUlBRUNVQUFGRUNBQkFsQUFCUkFnQVFKUUFBVVFJQUVDVUFBRkVDQUJBbEFBQlJBZ0FRSlFBQVVRSUFFQ1VBQUZFQ0FCQWxBQUJSQWdBUUpRQUFVUUlBRUNVQUFGRUNBQkFsQUFCUkFnQVFKUUFBVVFJQUVDVUFBRkVDQUJBbEFBQlJBZ0FRSlFBQVVRSUFFTFhNWG1DZzU2ZkgyU3R3Y0g1alhEVVhBRUNVQUFCRUNRQkFsQUFBUkFrQVFKUUFBRVFKQUVDVUFBQkVDUUJBMUpHL0JJYTNsOWZaSzhEbjVRSUFpTHA5dUwrYnZRTUFFN2dBQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSUVvQUFLSUVBQ0JLQUFDaUJBQWdTZ0FBb2dRQUlFb0FBS0lFQUNCS0FBQ2lCQUFnU2dBQW9nUUFJRW9BQUtJRUFDQktBQUNpQkFBZ1NnQUFvZ1FBSU9vM2NJWW5WNWhnVlhnQUFBQUFTVVZPUks1Q1lJST0iLCAic2l6ZXMiOiAiNTEyeDUxMiIsICJ0eXBlIjogImltYWdlL3BuZyJ9XX0=">
-<link rel="apple-touch-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAACiklEQVR4nO3au00DQRRAUYycEyBEQAcEZC4CiT4IXQshfViiCDICOiCgCzrAiDuwH58TW6tZ6erNeLSbq8uLM/it86kXwLIJiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREImASLZDnnJ4vBvyHP7Tw/Nbf8iYgFbm+vbm6G8+3z/+YSXzZwsjERDJ+C1syM46rden41vYQl9z+GnVBCIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhktZ+0vj7d/+Rnu/3LX69k3UwgEgGRCIhEQCQCIhEQiYBIBESy2ovESfzk9nJlV5cmEImASAREIiASAZEIiERAJAIiERCJm+hZWO4HuCYQiYBIBEQiIJK5H6KXe7o8ESYQiYBIBEQiIBIBkQiIREAkAiIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREMl26gUcsdu/TL0EvmMCkQiIREAkAiKZ+yH6RCz3v4IJRCIgEgGRCIhEQCQCIhEQiYBIBETiJnqk5V4o/5oJRCIgEgGRCIhEQCQCIhEQiYBIVnuReIJ3epMwgUgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIZ/z3Q4fFu+DNn6ERe8ygTiERAJAIi2VxdXky9BhbMBCIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkXwBb+UiMYj2bYQAAAAASUVORK5CYII=">
-<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAACiklEQVR4nO3au00DQRRAUYycEyBEQAcEZC4CiT4IXQshfViiCDICOiCgCzrAiDuwH58TW6tZ6erNeLSbq8uLM/it86kXwLIJiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREImASLZDnnJ4vBvyHP7Tw/Nbf8iYgFbm+vbm6G8+3z/+YSXzZwsjERDJ+C1syM46rden41vYQl9z+GnVBCIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhktZ+0vj7d/+Rnu/3LX69k3UwgEgGRCIhEQCQCIhEQiYBIBESy2ovESfzk9nJlV5cmEImASAREIiASAZEIiERAJAIiERCJm+hZWO4HuCYQiYBIBEQiIJK5H6KXe7o8ESYQiYBIBEQiIBIBkQiIREAkAiIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIREMl26gUcsdu/TL0EvmMCkQiIREAkAiKZ+yH6RCz3v4IJRCIgEgGRCIhEQCQCIhEQiYBIBETiJnqk5V4o/5oJRCIgEgGRCIhEQCQCIhEQiYBIVnuReIJ3epMwgUgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkQiIREAkAiIZ/z3Q4fFu+DNn6ERe8ygTiERAJAIi2VxdXky9BhbMBCIREImASAREIiASAZEIiERAJAIiERCJgEgERCIgEgGRCIhEQCQCIhEQiYBIBEQiIBIBkXwBb+UiMYj2bYQAAAAASUVORK5CYII=">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Mastering">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
 <style>
-  html, body { margin: 0; padding: 0; background: #15130F; height: 100%; overflow: hidden; }
-  #root { height: 100vh; }
+  html, body { margin: 0; padding: 0; background: #FAFAF8; min-height: 100%; }
+  #root { min-height: 100vh; }
+  * { box-sizing: border-box; }
 </style>
 </head>
 <body>
@@ -25,51 +23,48 @@
 <script type="text/babel" data-presets="react">
 const { useRef, useState, useEffect, useCallback } = React;
 
-const FONT_DISPLAY = "'Oswald', 'Arial Narrow', sans-serif";
-const FONT_MONO = "'IBM Plex Mono', 'Courier New', monospace";
+const FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif";
 
 const COLORS = {
-  bg: "#15130F",
-  panel: "#1E1B16",
-  panelRaised: "#252119",
-  hairline: "#3A352C",
-  copper: "#C97A3D",
-  copperDim: "#8C5A2E",
-  amber: "#E0A458",
-  teal: "#6FA88F",
-  red: "#D9534F",
-  textPrimary: "#EDE7DA",
-  textSecondary: "#A89F8E",
-  textMuted: "#6B6459",
+  bg: "#FAFAF8",
+  card: "#FFFFFF",
+  border: "#E6E4DE",
+  borderStrong: "#D3D0C8",
+  textPrimary: "#1C1B18",
+  textSecondary: "#615E54",
+  textMuted: "#9C988B",
+  accent: "#2F6F4E",
+  accentSoft: "#EAF3EC",
+  danger: "#C0392B",
 };
 
 function dbToGain(db) { return Math.pow(10, db / 20); }
 function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
 function fmt(v, d = 1) { return (Math.round(v * 10 ** d) / 10 ** d).toFixed(d); }
-
-function defaultParams() {
-  return {
-    eq: {
-      lowShelf: { freq: 90, gain: 0 },
-      lowMid: { freq: 400, gain: 0, q: 1 },
-      highMid: { freq: 2500, gain: 0, q: 1 },
-      highShelf: { freq: 9000, gain: 0 },
-    },
-    crossover: { lowMid: 200, midHigh: 4000 },
-    bands: {
-      low: { threshold: -24, ratio: 3, attack: 0.03, release: 0.25, makeup: 0 },
-      mid: { threshold: -22, ratio: 2.5, attack: 0.01, release: 0.2, makeup: 0 },
-      high: { threshold: -20, ratio: 2, attack: 0.003, release: 0.15, makeup: 0 },
-    },
-    limiter: { threshold: -1, release: 0.1 },
-    outputTrim: 0,
-  };
+function fmtTime(s) {
+  if (!isFinite(s)) return "0:00";
+  const m = Math.floor(s / 60);
+  const sec = Math.floor(s % 60);
+  return `${m}:${sec.toString().padStart(2, "0")}`;
 }
 
-const PRESETS = {
-  spotify: {
-    label: "Spotify / Genel",
-    hint: "~-14 LUFS hedefi, dengeli genel amaçlı ayar",
+const PRESETS = [
+  {
+    key: "original",
+    label: "Orijinal",
+    subtitle: "İşlemsiz karşılaştırma",
+    target: "İşlenmemiş",
+    color: "#8A867A",
+    colorSoft: "#F0EFEA",
+    bypass: true,
+  },
+  {
+    key: "spotify",
+    label: "Spotify",
+    subtitle: "Dengeli, geniş dinleyici kitlesi",
+    target: "≈ -14 LUFS",
+    color: "#1DB954",
+    colorSoft: "#E7F8EC",
     params: {
       eq: { lowShelf: { freq: 80, gain: 1 }, lowMid: { freq: 350, gain: -1, q: 1 }, highMid: { freq: 3000, gain: 1.5, q: 1 }, highShelf: { freq: 10000, gain: 1 } },
       crossover: { lowMid: 200, midHigh: 4000 },
@@ -82,9 +77,13 @@ const PRESETS = {
       outputTrim: 0,
     },
   },
-  youtube: {
+  {
+    key: "youtube",
     label: "YouTube Music",
-    hint: "~-14 LUFS, biraz daha parlak tepe",
+    subtitle: "Biraz daha parlak, öne çıkan tiz",
+    target: "≈ -14 LUFS",
+    color: "#FF0000",
+    colorSoft: "#FFEBEB",
     params: {
       eq: { lowShelf: { freq: 75, gain: 0.5 }, lowMid: { freq: 350, gain: -1, q: 1 }, highMid: { freq: 3200, gain: 2, q: 1.1 }, highShelf: { freq: 9500, gain: 2 } },
       crossover: { lowMid: 200, midHigh: 4000 },
@@ -97,9 +96,13 @@ const PRESETS = {
       outputTrim: 0,
     },
   },
-  appleMusic: {
-    label: "Apple Music (Dinamik)",
-    hint: "~-16 LUFS, daha fazla dinamik alan bırakır",
+  {
+    key: "apple",
+    label: "Apple Music",
+    subtitle: "Daha dinamik, doğal seviye",
+    target: "≈ -16 LUFS",
+    color: "#FA233B",
+    colorSoft: "#FFE9EC",
     params: {
       eq: { lowShelf: { freq: 85, gain: 0.5 }, lowMid: { freq: 400, gain: -0.5, q: 1 }, highMid: { freq: 2800, gain: 1, q: 1 }, highShelf: { freq: 10000, gain: 0.5 } },
       crossover: { lowMid: 200, midHigh: 4000 },
@@ -112,82 +115,7 @@ const PRESETS = {
       outputTrim: -1,
     },
   },
-  podcast: {
-    label: "Podcast / Konuşma",
-    hint: "Ses netliği ve tutarlı seviye önceliği",
-    params: {
-      eq: { lowShelf: { freq: 120, gain: -2 }, lowMid: { freq: 300, gain: -1.5, q: 1.2 }, highMid: { freq: 3500, gain: 3, q: 1.2 }, highShelf: { freq: 8000, gain: 1 } },
-      crossover: { lowMid: 200, midHigh: 4000 },
-      bands: {
-        low: { threshold: -26, ratio: 3, attack: 0.02, release: 0.2, makeup: 0 },
-        mid: { threshold: -22, ratio: 4, attack: 0.008, release: 0.15, makeup: 1.5 },
-        high: { threshold: -20, ratio: 3, attack: 0.003, release: 0.1, makeup: 0.5 },
-      },
-      limiter: { threshold: -1, release: 0.06 },
-      outputTrim: 0.5,
-    },
-  },
-  edm: {
-    label: "Elektronik / Dans",
-    hint: "Güçlü bas, sıkı ve yüksek seviye",
-    params: {
-      eq: { lowShelf: { freq: 60, gain: 3 }, lowMid: { freq: 300, gain: -1.5, q: 1 }, highMid: { freq: 4000, gain: 1.5, q: 1 }, highShelf: { freq: 11000, gain: 2 } },
-      crossover: { lowMid: 120, midHigh: 5000 },
-      bands: {
-        low: { threshold: -18, ratio: 4, attack: 0.02, release: 0.2, makeup: 1 },
-        mid: { threshold: -18, ratio: 3, attack: 0.008, release: 0.15, makeup: 0.5 },
-        high: { threshold: -16, ratio: 2.5, attack: 0.002, release: 0.1, makeup: 0.5 },
-      },
-      limiter: { threshold: -0.3, release: 0.05 },
-      outputTrim: 0.5,
-    },
-  },
-  pop: {
-    label: "Akustik / Pop",
-    hint: "Sıcak ve dengeli, hafif havadar tiz",
-    params: {
-      eq: { lowShelf: { freq: 90, gain: 1 }, lowMid: { freq: 450, gain: -0.5, q: 1 }, highMid: { freq: 2500, gain: 1, q: 0.9 }, highShelf: { freq: 10000, gain: 1.5 } },
-      crossover: { lowMid: 200, midHigh: 4000 },
-      bands: {
-        low: { threshold: -22, ratio: 2.2, attack: 0.03, release: 0.25, makeup: 0.3 },
-        mid: { threshold: -21, ratio: 2, attack: 0.012, release: 0.2, makeup: 0.3 },
-        high: { threshold: -19, ratio: 1.8, attack: 0.004, release: 0.15, makeup: 0.3 },
-      },
-      limiter: { threshold: -1.2, release: 0.12 },
-      outputTrim: 0,
-    },
-  },
-  rock: {
-    label: "Rock / Gitar",
-    hint: "Orta-tiz vurgu, daha agresif sınırlama",
-    params: {
-      eq: { lowShelf: { freq: 85, gain: 0.5 }, lowMid: { freq: 300, gain: -2, q: 1.1 }, highMid: { freq: 2200, gain: 2.5, q: 1 }, highShelf: { freq: 8500, gain: 1 } },
-      crossover: { lowMid: 180, midHigh: 3500 },
-      bands: {
-        low: { threshold: -20, ratio: 3, attack: 0.025, release: 0.2, makeup: 0.5 },
-        mid: { threshold: -19, ratio: 3, attack: 0.008, release: 0.15, makeup: 0.5 },
-        high: { threshold: -17, ratio: 2.5, attack: 0.003, release: 0.1, makeup: 0.5 },
-      },
-      limiter: { threshold: -0.8, release: 0.07 },
-      outputTrim: 0,
-    },
-  },
-  classical: {
-    label: "Klasik / Caz",
-    hint: "Minimal işlem, dinamikleri korur",
-    params: {
-      eq: { lowShelf: { freq: 80, gain: 0 }, lowMid: { freq: 400, gain: 0, q: 1 }, highMid: { freq: 2500, gain: 0.3, q: 1 }, highShelf: { freq: 10000, gain: 0.3 } },
-      crossover: { lowMid: 200, midHigh: 4000 },
-      bands: {
-        low: { threshold: -28, ratio: 1.5, attack: 0.05, release: 0.35, makeup: 0 },
-        mid: { threshold: -27, ratio: 1.5, attack: 0.02, release: 0.3, makeup: 0 },
-        high: { threshold: -26, ratio: 1.4, attack: 0.01, release: 0.25, makeup: 0 },
-      },
-      limiter: { threshold: -2, release: 0.2 },
-      outputTrim: -1,
-    },
-  },
-};
+];
 
 function buildChain(ctx, params) {
   const input = ctx.createGain();
@@ -284,16 +212,7 @@ function buildChain(ctx, params) {
   sum.connect(limiter);
   limiter.connect(outGain);
 
-  return {
-    input,
-    output: outGain,
-    nodes: {
-      eqLowShelf, eqLowMid, eqHighMid, eqHighShelf,
-      lowLP, midHP, midLP, highHP,
-      lowComp, midComp, highComp,
-      limiter, outGain,
-    },
-  };
+  return { input, output: outGain };
 }
 
 function encodeWav(audioBuffer) {
@@ -338,154 +257,74 @@ function encodeWav(audioBuffer) {
   return new Blob([view], { type: "audio/wav" });
 }
 
-function Slider({ label, value, min, max, step, unit, onChange, width }) {
+function PresetCard({ preset, active, playing, onSelect }) {
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: 2, width: width || "100%" }}>
-      <div style={{ display: "flex", justifyContent: "space-between", fontSize: 9.5 }}>
-        <span style={{ color: COLORS.textSecondary, letterSpacing: "0.03em", textTransform: "uppercase" }}>{label}</span>
-        <span style={{ color: COLORS.amber, fontFamily: FONT_MONO }}>{fmt(value, step < 1 ? 2 : 0)}{unit}</span>
+    <button
+      onClick={onSelect}
+      style={{
+        textAlign: "left",
+        cursor: "pointer",
+        background: active ? preset.colorSoft : COLORS.card,
+        border: `2px solid ${active ? preset.color : COLORS.border}`,
+        borderRadius: 14,
+        padding: "16px 16px",
+        display: "flex",
+        flexDirection: "column",
+        gap: 6,
+        fontFamily: FONT,
+        transition: "border-color 0.15s, background 0.15s, transform 0.1s",
+        transform: active ? "translateY(-1px)" : "none",
+        boxShadow: active ? "0 4px 14px rgba(0,0,0,0.06)" : "none",
+        position: "relative",
+      }}
+    >
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+          <span style={{ width: 10, height: 10, borderRadius: "50%", background: preset.color, display: "inline-block", flexShrink: 0 }} />
+          <span style={{ fontSize: 15.5, fontWeight: 700, color: COLORS.textPrimary }}>{preset.label}</span>
+        </div>
+        {active && playing && (
+          <span style={{ display: "flex", alignItems: "center", gap: 3 }}>
+            {[0, 1, 2].map((i) => (
+              <span key={i} className="eq-bar" style={{ background: preset.color, animationDelay: `${i * 0.15}s` }} />
+            ))}
+          </span>
+        )}
       </div>
-      <input
-        type="range"
-        min={min}
-        max={max}
-        step={step}
-        value={value}
-        onChange={(e) => onChange(parseFloat(e.target.value))}
-        style={{
-          WebkitAppearance: "none",
-          height: 3,
-          borderRadius: 2,
-          background: `linear-gradient(90deg, ${COLORS.copperDim} 0%, ${COLORS.copper} ${((value - min) / (max - min)) * 100}%, ${COLORS.hairline} ${((value - min) / (max - min)) * 100}%)`,
-          outline: "none",
-          cursor: "pointer",
-        }}
-      />
-    </div>
+      <div style={{ fontSize: 12.5, color: COLORS.textSecondary, lineHeight: 1.4 }}>{preset.subtitle}</div>
+      <div style={{ fontSize: 11, color: COLORS.textMuted, fontWeight: 600, marginTop: 2 }}>{preset.target}</div>
+    </button>
   );
 }
 
-function Module({ title, children, accent }) {
-  return (
-    <div style={{
-      background: COLORS.panel,
-      border: `1px solid ${COLORS.hairline}`,
-      borderTop: `2px solid ${accent || COLORS.copperDim}`,
-      padding: "8px 10px 10px",
-      display: "flex",
-      flexDirection: "column",
-      gap: 6,
-    }}>
-      <div style={{
-        fontFamily: FONT_DISPLAY,
-        fontSize: 10.5,
-        letterSpacing: "0.08em",
-        textTransform: "uppercase",
-        color: COLORS.textPrimary,
-        fontWeight: 500,
-      }}>{title}</div>
-      {children}
-    </div>
-  );
-}
-
-function VUMeter({ level }) {
-  const angle = -55 + clamp((level + 40) / 40, 0, 1) * 110;
-  const danger = level > -1;
-  return (
-    <svg viewBox="0 0 200 130" style={{ width: "100%", maxWidth: 220 }}>
-      <path d="M 20 110 A 80 80 0 0 1 180 110" fill="none" stroke={COLORS.hairline} strokeWidth="2" />
-      {[...Array(9)].map((_, i) => {
-        const a = (-55 + (i / 8) * 110) * (Math.PI / 180);
-        const x1 = 100 + Math.sin(a) * 72, y1 = 110 - Math.cos(a) * 72;
-        const x2 = 100 + Math.sin(a) * 80, y2 = 110 - Math.cos(a) * 80;
-        return <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke={i >= 7 ? COLORS.red : COLORS.textMuted} strokeWidth="1.5" />;
-      })}
-      <line
-        x1="100" y1="110"
-        x2={100 + Math.sin(angle * Math.PI / 180) * 64}
-        y2={110 - Math.cos(angle * Math.PI / 180) * 64}
-        stroke={danger ? COLORS.red : COLORS.copper}
-        strokeWidth="2"
-        style={{ transition: "all 0.08s linear" }}
-      />
-      <circle cx="100" cy="110" r="4" fill={COLORS.amber} />
-      <text x="100" y="126" textAnchor="middle" fontSize="10" fontFamily={FONT_MONO} fill={COLORS.textSecondary}>
-        {level > -60 ? `${fmt(level, 1)} dB` : "-- dB"}
-      </text>
-    </svg>
-  );
-}
-
-function GRMeter({ barRef, label }) {
-  return (
-    <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-      <span style={{ fontSize: 10, color: COLORS.textSecondary, width: 56, flexShrink: 0, textTransform: "uppercase", letterSpacing: "0.04em" }}>{label}</span>
-      <div style={{ flex: 1, height: 8, background: "#100E0B", position: "relative", overflow: "hidden" }}>
-        <div ref={barRef} style={{ position: "absolute", right: 0, top: 0, bottom: 0, width: "0%", background: COLORS.teal, transition: "width 0.05s linear" }} />
-      </div>
-    </div>
-  );
-}
-
-function MasteringConsole() {
-  const [params, setParams] = useState(defaultParams());
-  const [selectedPreset, setSelectedPreset] = useState(null);
+function MasteringApp() {
   const [fileName, setFileName] = useState(null);
   const [status, setStatus] = useState("idle");
   const [isPlaying, setIsPlaying] = useState(false);
-  const [bypass, setBypass] = useState(false);
-  const [peakLevel, setPeakLevel] = useState(-60);
-  const [rmsLevel, setRmsLevel] = useState(-60);
-  const [lufsApprox, setLufsApprox] = useState(-60);
+  const [selectedKey, setSelectedKey] = useState("spotify");
   const [duration, setDuration] = useState(0);
   const [progress, setProgress] = useState(0);
   const [exporting, setExporting] = useState(false);
-  const [activeTab, setActiveTab] = useState("konsol");
-  const [newPresetName, setNewPresetName] = useState("");
-  const [customPresets, setCustomPresets] = useState(() => {
-    try {
-      const raw = localStorage.getItem("masteringConsoleCustomPresets");
-      return raw ? JSON.parse(raw) : [];
-    } catch (err) {
-      return [];
-    }
-  });
-  const [stems, setStems] = useState([]);
-  const [mixing, setMixing] = useState(false);
-  const [stemPreviewPlaying, setStemPreviewPlaying] = useState(false);
-  const stemIdRef = useRef(0);
-  const stemFileInputRef = useRef(null);
-  const stemPreviewNodesRef = useRef({});
+  const [levelDb, setLevelDb] = useState(-60);
+  const [dragOver, setDragOver] = useState(false);
 
   const ctxRef = useRef(null);
   const bufferRef = useRef(null);
   const sourceRef = useRef(null);
-  const chainRef = useRef(null);
   const analyserRef = useRef(null);
-  const dryGainRef = useRef(null);
-  const wetGainRef = useRef(null);
   const rafRef = useRef(null);
   const startTimeRef = useRef(0);
   const pauseOffsetRef = useRef(0);
   const canvasRef = useRef(null);
   const fileInputRef = useRef(null);
-  const paramsRef = useRef(params);
-  const lufsSmoothRef = useRef(0);
-  const freqCanvasRef = useRef(null);
-  const lowGRRef = useRef(null);
-  const midGRRef = useRef(null);
-  const highGRRef = useRef(null);
-  const frameCountRef = useRef(0);
-  paramsRef.current = params;
+  const selectedKeyRef = useRef(selectedKey);
+  selectedKeyRef.current = selectedKey;
 
   const ensureCtx = useCallback(() => {
     if (!ctxRef.current) {
       ctxRef.current = new (window.AudioContext || window.webkitAudioContext)();
     }
-    if (ctxRef.current.state === "suspended") {
-      ctxRef.current.resume();
-    }
+    if (ctxRef.current.state === "suspended") ctxRef.current.resume();
     return ctxRef.current;
   }, []);
 
@@ -497,7 +336,7 @@ function MasteringConsole() {
     ctx2d.clearRect(0, 0, w, h);
     const data = buffer.getChannelData(0);
     const step = Math.ceil(data.length / w);
-    ctx2d.fillStyle = COLORS.copperDim;
+    ctx2d.fillStyle = COLORS.borderStrong;
     for (let x = 0; x < w; x++) {
       let min = 1.0, max = -1.0;
       for (let i = 0; i < step; i++) {
@@ -513,8 +352,7 @@ function MasteringConsole() {
     }
   }, []);
 
-  async function handleFile(e) {
-    const file = e.target.files[0];
+  async function loadFile(file) {
     if (!file) return;
     setStatus("decoding");
     const ctx = ensureCtx();
@@ -525,12 +363,26 @@ function MasteringConsole() {
     setDuration(audioBuffer.duration);
     drawWaveform(audioBuffer);
     setStatus("ready");
+    pauseOffsetRef.current = 0;
+    setProgress(0);
+  }
+
+  function handleFileInput(e) {
+    loadFile(e.target.files[0]);
+  }
+
+  function handleDrop(e) {
+    e.preventDefault();
+    setDragOver(false);
+    const file = e.dataTransfer.files && e.dataTransfer.files[0];
+    if (file) loadFile(file);
   }
 
   function stopPlayback() {
     if (sourceRef.current) {
+      sourceRef.current.onended = null;
       try { sourceRef.current.stop(); } catch (err) {}
-      sourceRef.current.disconnect();
+      try { sourceRef.current.disconnect(); } catch (err) {}
       sourceRef.current = null;
     }
     if (rafRef.current) cancelAnimationFrame(rafRef.current);
@@ -540,31 +392,25 @@ function MasteringConsole() {
   function play(offset = 0) {
     const ctx = ensureCtx();
     if (!bufferRef.current) return;
-    if (ctx.state === "suspended") { ctx.resume(); }
+    if (ctx.state === "suspended") ctx.resume();
     stopPlayback();
 
     const source = ctx.createBufferSource();
     source.buffer = bufferRef.current;
 
-    const chain = buildChain(ctx, paramsRef.current);
-    chainRef.current = chain;
-
-    const dryGain = ctx.createGain();
-    const wetGain = ctx.createGain();
-    dryGain.gain.value = bypass ? 1 : 0;
-    wetGain.gain.value = bypass ? 0 : 1;
-    dryGainRef.current = dryGain;
-    wetGainRef.current = wetGain;
+    const preset = PRESETS.find((p) => p.key === selectedKeyRef.current) || PRESETS[1];
 
     const analyser = ctx.createAnalyser();
     analyser.fftSize = 2048;
     analyserRef.current = analyser;
 
-    source.connect(dryGain);
-    source.connect(chain.input);
-    chain.output.connect(wetGain);
-    dryGain.connect(analyser);
-    wetGain.connect(analyser);
+    if (preset.bypass) {
+      source.connect(analyser);
+    } else {
+      const chain = buildChain(ctx, preset.params);
+      source.connect(chain.input);
+      chain.output.connect(analyser);
+    }
     analyser.connect(ctx.destination);
 
     source.start(0, offset);
@@ -582,75 +428,22 @@ function MasteringConsole() {
   function tick() {
     const ctx = ctxRef.current;
     const analyser = analyserRef.current;
-    if (ctx && analyser && sourceRef.current) {
+    if (ctx && analyser && sourceRef.current && bufferRef.current) {
       const data = new Float32Array(analyser.fftSize);
       analyser.getFloatTimeDomainData(data);
-      let peak = 0, sumSq = 0;
-      for (let i = 0; i < data.length; i++) {
-        const v = Math.abs(data[i]);
-        if (v > peak) peak = v;
-        sumSq += data[i] * data[i];
-      }
+      let sumSq = 0;
+      for (let i = 0; i < data.length; i++) sumSq += data[i] * data[i];
       const rms = Math.sqrt(sumSq / data.length);
-      setPeakLevel(peak > 0 ? 20 * Math.log10(peak) : -60);
-      setRmsLevel(rms > 0 ? 20 * Math.log10(rms) : -60);
-
-      const power = rms * rms;
-      lufsSmoothRef.current = lufsSmoothRef.current * 0.985 + power * 0.015;
-      const lufsDb = lufsSmoothRef.current > 0 ? 10 * Math.log10(lufsSmoothRef.current) - 0.691 : -60;
+      setLevelDb(rms > 0 ? 20 * Math.log10(rms) : -60);
 
       const elapsed = ctx.currentTime - startTimeRef.current;
       setProgress(clamp(elapsed / bufferRef.current.duration, 0, 1));
-
-      frameCountRef.current++;
-      if (frameCountRef.current % 4 === 0) {
-        setLufsApprox(lufsDb);
-      }
-
-      if (freqCanvasRef.current) {
-        const freqData = new Uint8Array(analyser.frequencyBinCount);
-        analyser.getByteFrequencyData(freqData);
-        drawSpectrum(freqData);
-      }
-
-      const chain = chainRef.current;
-      if (chain) {
-        const lowGR = chain.nodes.lowComp.comp.reduction || 0;
-        const midGR = chain.nodes.midComp.comp.reduction || 0;
-        const highGR = chain.nodes.highComp.comp.reduction || 0;
-        if (lowGRRef.current) lowGRRef.current.style.width = `${clamp((-lowGR / 24) * 100, 0, 100)}%`;
-        if (midGRRef.current) midGRRef.current.style.width = `${clamp((-midGR / 24) * 100, 0, 100)}%`;
-        if (highGRRef.current) highGRRef.current.style.width = `${clamp((-highGR / 24) * 100, 0, 100)}%`;
-      }
     }
     rafRef.current = requestAnimationFrame(tick);
   }
 
-  function drawSpectrum(freqData) {
-    const canvas = freqCanvasRef.current;
-    if (!canvas) return;
-    const ctx2d = canvas.getContext("2d");
-    const w = canvas.width, h = canvas.height;
-    ctx2d.clearRect(0, 0, w, h);
-    const barCount = 56;
-    const usableBins = Math.floor(freqData.length * 0.6);
-    const binsPerBar = Math.max(1, Math.floor(usableBins / barCount));
-    const barWidth = w / barCount;
-    for (let i = 0; i < barCount; i++) {
-      let sum = 0;
-      for (let j = 0; j < binsPerBar; j++) {
-        sum += freqData[i * binsPerBar + j] || 0;
-      }
-      const avg = sum / binsPerBar;
-      const barH = (avg / 255) * h;
-      ctx2d.fillStyle = avg > 210 ? COLORS.red : i < barCount * 0.35 ? COLORS.copper : COLORS.teal;
-      ctx2d.fillRect(i * barWidth, h - barH, barWidth - 1, barH);
-    }
-  }
-
   function togglePlay() {
     if (!bufferRef.current) return;
-    stopStemPreview();
     if (isPlaying) {
       pauseOffsetRef.current = ctxRef.current.currentTime - startTimeRef.current;
       stopPlayback();
@@ -659,267 +452,51 @@ function MasteringConsole() {
     }
   }
 
-  function restartWithCurrentParams() {
-    if (isPlaying) {
+  function selectPreset(key) {
+    setSelectedKey(key);
+    if (isPlaying && ctxRef.current) {
       const offset = ctxRef.current.currentTime - startTimeRef.current;
+      selectedKeyRef.current = key;
       play(offset);
     }
   }
 
-  useEffect(() => {
-    if (dryGainRef.current && wetGainRef.current) {
-      const ctx = ctxRef.current;
-      const now = ctx.currentTime;
-      dryGainRef.current.gain.setTargetAtTime(bypass ? 1 : 0, now, 0.02);
-      wetGainRef.current.gain.setTargetAtTime(bypass ? 0 : 1, now, 0.02);
-    }
-  }, [bypass]);
-
-  useEffect(() => {
-    const chain = chainRef.current;
-    if (!chain) return;
-    const p = params;
-    const n = chain.nodes;
-    n.eqLowShelf.frequency.value = p.eq.lowShelf.freq;
-    n.eqLowShelf.gain.value = p.eq.lowShelf.gain;
-    n.eqLowMid.frequency.value = p.eq.lowMid.freq;
-    n.eqLowMid.Q.value = p.eq.lowMid.q;
-    n.eqLowMid.gain.value = p.eq.lowMid.gain;
-    n.eqHighMid.frequency.value = p.eq.highMid.freq;
-    n.eqHighMid.Q.value = p.eq.highMid.q;
-    n.eqHighMid.gain.value = p.eq.highMid.gain;
-    n.eqHighShelf.frequency.value = p.eq.highShelf.freq;
-    n.eqHighShelf.gain.value = p.eq.highShelf.gain;
-
-    n.lowLP.frequency.value = p.crossover.lowMid;
-    n.midHP.frequency.value = p.crossover.lowMid;
-    n.midLP.frequency.value = p.crossover.midHigh;
-    n.highHP.frequency.value = p.crossover.midHigh;
-
-    n.lowComp.comp.threshold.value = p.bands.low.threshold;
-    n.lowComp.comp.ratio.value = p.bands.low.ratio;
-    n.lowComp.comp.attack.value = p.bands.low.attack;
-    n.lowComp.comp.release.value = p.bands.low.release;
-    n.lowComp.makeup.gain.value = dbToGain(p.bands.low.makeup);
-
-    n.midComp.comp.threshold.value = p.bands.mid.threshold;
-    n.midComp.comp.ratio.value = p.bands.mid.ratio;
-    n.midComp.comp.attack.value = p.bands.mid.attack;
-    n.midComp.comp.release.value = p.bands.mid.release;
-    n.midComp.makeup.gain.value = dbToGain(p.bands.mid.makeup);
-
-    n.highComp.comp.threshold.value = p.bands.high.threshold;
-    n.highComp.comp.ratio.value = p.bands.high.ratio;
-    n.highComp.comp.attack.value = p.bands.high.attack;
-    n.highComp.comp.release.value = p.bands.high.release;
-    n.highComp.makeup.gain.value = dbToGain(p.bands.high.makeup);
-
-    n.limiter.threshold.value = p.limiter.threshold;
-    n.limiter.release.value = p.limiter.release;
-    n.outGain.gain.value = dbToGain(p.outputTrim);
-  }, [params]);
+  function seekTo(ratio) {
+    if (!bufferRef.current) return;
+    const offset = clamp(ratio, 0, 1) * bufferRef.current.duration;
+    pauseOffsetRef.current = offset;
+    setProgress(ratio);
+    if (isPlaying) play(offset);
+  }
 
   useEffect(() => () => {
     stopPlayback();
-    stopStemPreview();
     if (ctxRef.current) ctxRef.current.close();
   }, []);
-
-  function updateParam(path, value) {
-    setSelectedPreset(null);
-    setParams((prev) => {
-      const next = JSON.parse(JSON.stringify(prev));
-      let obj = next;
-      for (let i = 0; i < path.length - 1; i++) obj = obj[path[i]];
-      obj[path[path.length - 1]] = value;
-      return next;
-    });
-  }
-
-  function applyPreset(key) {
-    const preset = PRESETS[key];
-    if (!preset) return;
-    setParams(JSON.parse(JSON.stringify(preset.params)));
-    setSelectedPreset(key);
-  }
-
-  function saveCustomPreset() {
-    const name = newPresetName.trim();
-    if (!name) return;
-    const next = [...customPresets.filter((p) => p.name !== name), { name, params: JSON.parse(JSON.stringify(params)) }];
-    setCustomPresets(next);
-    try { localStorage.setItem("masteringConsoleCustomPresets", JSON.stringify(next)); } catch (err) {}
-    setNewPresetName("");
-    setSelectedPreset(`custom:${name}`);
-  }
-
-  function applyCustomPreset(name) {
-    const preset = customPresets.find((p) => p.name === name);
-    if (!preset) return;
-    setParams(JSON.parse(JSON.stringify(preset.params)));
-    setSelectedPreset(`custom:${name}`);
-  }
-
-  function deleteCustomPreset(name) {
-    const next = customPresets.filter((p) => p.name !== name);
-    setCustomPresets(next);
-    try { localStorage.setItem("masteringConsoleCustomPresets", JSON.stringify(next)); } catch (err) {}
-  }
-
-  function stopStemPreview() {
-    Object.values(stemPreviewNodesRef.current).forEach((n) => {
-      try { n.source.stop(); } catch (err) {}
-      try { n.source.disconnect(); } catch (err) {}
-    });
-    stemPreviewNodesRef.current = {};
-    setStemPreviewPlaying(false);
-  }
-
-  function playStemPreview() {
-    if (!stems.length) return;
-    stopPlayback();
-    stopStemPreview();
-    const ctx = ensureCtx();
-    if (ctx.state === "suspended") { ctx.resume(); }
-    const anySolo = stems.some((s) => s.solo);
-    const nodesMap = {};
-    stems.forEach((s) => {
-      const active = anySolo ? s.solo : !s.mute;
-      const src = ctx.createBufferSource();
-      src.buffer = s.buffer;
-      const lowShelf = ctx.createBiquadFilter();
-      lowShelf.type = "lowshelf";
-      lowShelf.frequency.value = 150;
-      lowShelf.gain.value = s.lowGain;
-      const highShelf = ctx.createBiquadFilter();
-      highShelf.type = "highshelf";
-      highShelf.frequency.value = 6000;
-      highShelf.gain.value = s.highGain;
-      const gain = ctx.createGain();
-      gain.gain.value = active ? dbToGain(s.gainDb) : 0;
-      src.connect(lowShelf);
-      lowShelf.connect(highShelf);
-      highShelf.connect(gain);
-      gain.connect(ctx.destination);
-      src.start(0);
-      nodesMap[s.id] = { source: src, gain, lowShelf, highShelf };
-    });
-    stemPreviewNodesRef.current = nodesMap;
-    setStemPreviewPlaying(true);
-  }
-
-  function toggleStemPreview() {
-    if (stemPreviewPlaying) stopStemPreview();
-    else playStemPreview();
-  }
-
-  useEffect(() => {
-    if (!stemPreviewPlaying || !ctxRef.current) return;
-    const ctx = ctxRef.current;
-    const anySolo = stems.some((s) => s.solo);
-    stems.forEach((s) => {
-      const n = stemPreviewNodesRef.current[s.id];
-      if (!n) return;
-      const active = anySolo ? s.solo : !s.mute;
-      n.gain.gain.setTargetAtTime(active ? dbToGain(s.gainDb) : 0, ctx.currentTime, 0.01);
-      n.lowShelf.gain.value = s.lowGain;
-      n.highShelf.gain.value = s.highGain;
-    });
-  }, [stems, stemPreviewPlaying]);
-
-  async function handleStemFiles(e) {
-    const files = Array.from(e.target.files || []);
-    if (!files.length) return;
-    const ctx = ensureCtx();
-    const newStems = [];
-    for (const file of files) {
-      try {
-        const arrayBuf = await file.arrayBuffer();
-        const audioBuffer = await ctx.decodeAudioData(arrayBuf);
-        stemIdRef.current += 1;
-        newStems.push({
-          id: stemIdRef.current,
-          name: file.name,
-          buffer: audioBuffer,
-          gainDb: 0,
-          mute: false,
-          solo: false,
-          lowGain: 0,
-          highGain: 0,
-        });
-      } catch (err) {}
-    }
-    setStems((prev) => [...prev, ...newStems]);
-    e.target.value = "";
-  }
-
-  function updateStem(id, patch) {
-    setStems((prev) => prev.map((s) => (s.id === id ? { ...s, ...patch } : s)));
-  }
-
-  function removeStem(id) {
-    setStems((prev) => prev.filter((s) => s.id !== id));
-  }
-
-  async function buildStemMixAndSend() {
-    if (!stems.length) return;
-    stopStemPreview();
-    setMixing(true);
-    const ctx = ensureCtx();
-    const sampleRate = ctx.sampleRate;
-    const anySolo = stems.some((s) => s.solo);
-    const active = stems.filter((s) => (anySolo ? s.solo : !s.mute));
-    if (!active.length) { setMixing(false); return; }
-    const maxLen = Math.max(...active.map((s) => s.buffer.length));
-    const offlineCtx = new OfflineAudioContext(2, maxLen, sampleRate);
-
-    active.forEach((s) => {
-      const src = offlineCtx.createBufferSource();
-      src.buffer = s.buffer;
-      const lowShelf = offlineCtx.createBiquadFilter();
-      lowShelf.type = "lowshelf";
-      lowShelf.frequency.value = 150;
-      lowShelf.gain.value = s.lowGain;
-      const highShelf = offlineCtx.createBiquadFilter();
-      highShelf.type = "highshelf";
-      highShelf.frequency.value = 6000;
-      highShelf.gain.value = s.highGain;
-      const gain = offlineCtx.createGain();
-      gain.gain.value = dbToGain(s.gainDb);
-      src.connect(lowShelf);
-      lowShelf.connect(highShelf);
-      highShelf.connect(gain);
-      gain.connect(offlineCtx.destination);
-      src.start(0);
-    });
-
-    const rendered = await offlineCtx.startRendering();
-    bufferRef.current = rendered;
-    setFileName("Stem Karışımı (" + active.length + " parça)");
-    setDuration(rendered.duration);
-    drawWaveform(rendered);
-    setStatus("ready");
-    setMixing(false);
-    setActiveTab("konsol");
-  }
 
   async function handleExport() {
     if (!bufferRef.current) return;
     setExporting(true);
+    const preset = PRESETS.find((p) => p.key === selectedKey) || PRESETS[1];
     const buffer = bufferRef.current;
     const offlineCtx = new OfflineAudioContext(buffer.numberOfChannels, buffer.length, buffer.sampleRate);
     const source = offlineCtx.createBufferSource();
     source.buffer = buffer;
-    const chain = buildChain(offlineCtx, paramsRef.current);
-    source.connect(chain.input);
-    chain.output.connect(offlineCtx.destination);
+    if (preset.bypass) {
+      source.connect(offlineCtx.destination);
+    } else {
+      const chain = buildChain(offlineCtx, preset.params);
+      source.connect(chain.input);
+      chain.output.connect(offlineCtx.destination);
+    }
     source.start(0);
     const rendered = await offlineCtx.startRendering();
     const blob = encodeWav(rendered);
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = (fileName ? fileName.replace(/\.[^.]+$/, "") : "mastered") + "_mastered.wav";
+    const base = fileName ? fileName.replace(/\.[^.]+$/, "") : "mastered";
+    a.download = `${base}_${preset.key}.wav`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -927,386 +504,227 @@ function MasteringConsole() {
     setExporting(false);
   }
 
-  function resetAll() {
-    setParams(defaultParams());
-    setSelectedPreset(null);
-  }
+  const activePreset = PRESETS.find((p) => p.key === selectedKey) || PRESETS[1];
+  const meterPct = clamp((levelDb + 40) / 40, 0, 1) * 100;
 
   return (
-    <div className="app-shell" style={{
+    <div style={{
       background: COLORS.bg,
       color: COLORS.textPrimary,
-      fontFamily: FONT_DISPLAY,
-      padding: "10px 14px",
-      height: "100vh",
-      boxSizing: "border-box",
+      fontFamily: FONT,
+      minHeight: "100vh",
       display: "flex",
-      flexDirection: "column",
-      gap: 8,
-      overflow: "auto",
+      justifyContent: "center",
+      padding: "28px 16px 60px",
     }}>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+        @keyframes eqbar {
+          0%, 100% { height: 4px; }
+          50% { height: 12px; }
+        }
+        .eq-bar {
+          width: 2.5px;
+          height: 8px;
+          border-radius: 2px;
+          display: inline-block;
+          animation: eqbar 0.9s ease-in-out infinite;
+        }
+        input[type=range] {
+          -webkit-appearance: none;
+          width: 100%;
+          height: 4px;
+          border-radius: 2px;
+          background: ${COLORS.border};
+          outline: none;
+          cursor: pointer;
+        }
         input[type=range]::-webkit-slider-thumb {
           -webkit-appearance: none;
-          width: 12px; height: 12px; border-radius: 50%;
-          background: ${COLORS.amber};
-          border: 1px solid ${COLORS.bg};
+          width: 15px; height: 15px; border-radius: 50%;
+          background: ${COLORS.accent};
+          border: 2px solid #fff;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.25);
           cursor: pointer;
-          margin-top: -4.5px;
+          margin-top: -5.5px;
         }
         input[type=range]::-moz-range-thumb {
-          width: 12px; height: 12px; border-radius: 50%;
-          background: ${COLORS.amber}; border: none; cursor: pointer;
+          width: 15px; height: 15px; border-radius: 50%;
+          background: ${COLORS.accent}; border: 2px solid #fff; cursor: pointer;
         }
-        input[type=text] {
-          background: #100E0B;
-          border: 1px solid ${COLORS.hairline};
-          color: ${COLORS.textPrimary};
-          padding: 5px 8px;
-          font-size: 11px;
-          font-family: ${FONT_DISPLAY};
-          outline: none;
+        .primary-btn {
+          background: ${COLORS.textPrimary};
+          color: #fff;
+          border: none;
+          border-radius: 999px;
+          padding: 13px 26px;
+          font-size: 14.5px;
+          font-weight: 700;
+          cursor: pointer;
+          font-family: ${FONT};
+          transition: opacity 0.15s, transform 0.1s;
         }
-        @media (max-width: 860px) {
-          html, body { overflow: auto !important; }
-          .grid-top { grid-template-columns: 1fr !important; }
-          .grid-eq { grid-template-columns: repeat(2, 1fr) !important; }
-          .grid-comp { grid-template-columns: 1fr !important; }
-          .grid-bottom { grid-template-columns: 1fr !important; }
-          .grid-olcum { grid-template-columns: 1fr !important; }
-          .stem-row { grid-template-columns: 1fr !important; }
-          .app-shell { height: auto !important; min-height: 100vh !important; overflow: visible !important; padding-bottom: 24px !important; }
-          input[type=range] { height: 22px !important; }
-          input[type=range]::-webkit-slider-thumb { width: 20px !important; height: 20px !important; margin-top: -9px !important; }
-          input[type=range]::-moz-range-thumb { width: 20px !important; height: 20px !important; }
-          button { min-height: 36px; padding: 8px 12px !important; font-size: 12.5px !important; }
-          .tab-btn { min-height: 38px; font-size: 13px !important; }
-          .glossary-item { grid-template-columns: 1fr !important; }
+        .primary-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+        .primary-btn:not(:disabled):hover { transform: translateY(-1px); }
+        .ghost-btn {
+          background: transparent;
+          color: ${COLORS.textSecondary};
+          border: 1.5px solid ${COLORS.border};
+          border-radius: 999px;
+          padding: 8px 16px;
+          font-size: 13px;
+          font-weight: 600;
+          cursor: pointer;
+          font-family: ${FONT};
+        }
+        .preset-grid {
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+          gap: 12px;
+        }
+        @media (max-width: 720px) {
+          .preset-grid { grid-template-columns: repeat(2, 1fr); }
+          .shell { padding: 0 !important; }
         }
       `}</style>
 
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", borderBottom: `1px solid ${COLORS.hairline}`, paddingBottom: 8, flexShrink: 0 }}>
+      <div className="shell" style={{ width: "100%", maxWidth: 720, display: "flex", flexDirection: "column", gap: 22 }}>
         <div>
-          <div style={{ fontSize: 15, fontWeight: 600, letterSpacing: "0.08em" }}>SIGNAL <span style={{ color: COLORS.copper }}>//</span> MASTERING</div>
-          <div style={{ fontSize: 9.5, color: COLORS.textMuted, marginTop: 1, letterSpacing: "0.05em" }}>4 BANT EQ &middot; 3 BANT KOMPRESÖR &middot; SINIRLAYICI</div>
+          <div style={{ fontSize: 23, fontWeight: 800, letterSpacing: "-0.01em" }}>Mastering Stüdyosu</div>
+          <div style={{ fontSize: 13.5, color: COLORS.textSecondary, marginTop: 4 }}>
+            Şarkını yükle, platform hazır ayarları arasında canlı geçiş yaparak dinle, beğendiğini WAV olarak indir.
+          </div>
         </div>
-        <div style={{ fontSize: 10, color: COLORS.textSecondary, fontFamily: FONT_MONO }}>{status === "ready" ? "HAZIR" : status === "decoding" ? "ÇÖZÜMLENİYOR\u2026" : "SİNYAL YOK"}</div>
-      </div>
 
-      <div style={{ display: "flex", gap: 5, flexWrap: "wrap", flexShrink: 0 }}>
-        {Object.keys(PRESETS).map((key) => (
-          <button
-            key={key}
-            onClick={() => applyPreset(key)}
-            title={PRESETS[key].hint}
-            style={{ ...btnStyle(selectedPreset === key), padding: "4px 9px", fontSize: 10.5 }}
-          >
-            {PRESETS[key].label}
-          </button>
-        ))}
-        {customPresets.map((p) => (
-          <button
-            key={p.name}
-            onClick={() => applyCustomPreset(p.name)}
-            title="Kayıtlı özel ayar"
-            style={{ ...btnStyle(selectedPreset === `custom:${p.name}`), padding: "4px 9px", fontSize: 10.5, borderStyle: "dashed" }}
-          >
-            ★ {p.name}
-          </button>
-        ))}
-      </div>
+        <div
+          onDragOver={(e) => { e.preventDefault(); setDragOver(true); }}
+          onDragLeave={() => setDragOver(false)}
+          onDrop={handleDrop}
+          style={{
+            background: COLORS.card,
+            border: `1.5px ${dragOver ? "solid" : "dashed"} ${dragOver ? COLORS.accent : COLORS.border}`,
+            borderRadius: 16,
+            padding: fileName ? "18px 20px" : "34px 20px",
+            display: "flex",
+            flexDirection: "column",
+            gap: 12,
+            transition: "border-color 0.15s",
+          }}
+        >
+          <input ref={fileInputRef} type="file" accept="audio/*,.mp3" onChange={handleFileInput} style={{ display: "none" }} />
 
-      <div className="grid-top" style={{ display: "grid", gridTemplateColumns: "1.6fr 1fr", gap: 10, flexShrink: 0 }}>
-        <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: "10px 12px", display: "flex", flexDirection: "column", gap: 6 }}>
-          <input ref={fileInputRef} type="file" accept="audio/*" onChange={handleFile} style={{ display: "none" }} />
           {!fileName ? (
-            <div
-              onClick={() => fileInputRef.current.click()}
-              style={{ border: `1px dashed ${COLORS.hairline}`, padding: "14px 12px", textAlign: "center", cursor: "pointer", color: COLORS.textSecondary, fontSize: 12 }}
-            >
-              Ses dosyası seçmek için tıkla (WAV, MP3, FLAC)
+            <div onClick={() => fileInputRef.current.click()} style={{ textAlign: "center", cursor: "pointer" }}>
+              <div style={{ fontSize: 15, fontWeight: 700, marginBottom: 4 }}>
+                {status === "decoding" ? "Yükleniyor…" : "MP3 dosyanı sürükle bırak ya da seç"}
+              </div>
+              <div style={{ fontSize: 12.5, color: COLORS.textMuted }}>MP3, WAV veya diğer ses formatları desteklenir</div>
             </div>
           ) : (
             <>
-              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                <span style={{ fontSize: 12, color: COLORS.textPrimary, fontFamily: FONT_MONO }}>{fileName}</span>
-                <button onClick={() => fileInputRef.current.click()} style={btnStyle()}>Değiştir</button>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 10 }}>
+                <span style={{ fontSize: 14, fontWeight: 700, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{fileName}</span>
+                <button className="ghost-btn" onClick={() => fileInputRef.current.click()}>Değiştir</button>
               </div>
-              <canvas ref={canvasRef} width={520} height={44} style={{ width: "100%", height: 44, background: "#100E0B", display: "block" }} />
-              <div style={{ height: 3, background: COLORS.hairline, position: "relative" }}>
-                <div style={{ position: "absolute", left: 0, top: 0, bottom: 0, width: `${progress * 100}%`, background: COLORS.copper }} />
+
+              <canvas
+                ref={canvasRef}
+                width={640}
+                height={54}
+                style={{ width: "100%", height: 54, borderRadius: 8, background: COLORS.accentSoft, display: "block", cursor: "pointer" }}
+                onClick={(e) => {
+                  const rect = e.currentTarget.getBoundingClientRect();
+                  seekTo((e.clientX - rect.left) / rect.width);
+                }}
+              />
+
+              <div
+                style={{ height: 5, background: COLORS.border, borderRadius: 3, position: "relative", cursor: "pointer" }}
+                onClick={(e) => {
+                  const rect = e.currentTarget.getBoundingClientRect();
+                  seekTo((e.clientX - rect.left) / rect.width);
+                }}
+              >
+                <div style={{ position: "absolute", left: 0, top: 0, bottom: 0, width: `${progress * 100}%`, background: activePreset.color, borderRadius: 3 }} />
               </div>
-              <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-                <button onClick={togglePlay} style={btnStyle(true)}>{isPlaying ? "Durdur" : "Çal"}</button>
-                <button onClick={() => setBypass((b) => !b)} style={btnStyle(bypass)}>{bypass ? "BYPASS: HAM SES" : "BYPASS: KAPALI"}</button>
-                <span style={{ fontSize: 10, color: COLORS.textMuted, fontFamily: FONT_MONO, marginLeft: "auto" }}>{fmt(duration, 0)}s</span>
+
+              <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+                <button
+                  onClick={togglePlay}
+                  style={{
+                    width: 42, height: 42, borderRadius: "50%",
+                    background: COLORS.textPrimary, color: "#fff",
+                    border: "none", cursor: "pointer",
+                    display: "flex", alignItems: "center", justifyContent: "center",
+                    fontSize: 15, flexShrink: 0,
+                  }}
+                >
+                  {isPlaying ? "❚❚" : "▶"}
+                </button>
+
+                <div style={{ fontSize: 11.5, color: COLORS.textMuted, fontVariantNumeric: "tabular-nums" }}>
+                  {fmtTime(progress * duration)} / {fmtTime(duration)}
+                </div>
+
+                <div style={{ flex: 1, height: 6, background: COLORS.border, borderRadius: 3, overflow: "hidden", marginLeft: 4 }}>
+                  <div style={{ width: `${meterPct}%`, height: "100%", background: levelDb > -1 ? COLORS.danger : activePreset.color, transition: "width 0.06s linear" }} />
+                </div>
               </div>
             </>
           )}
         </div>
 
-        <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: "10px 12px", display: "flex", flexDirection: "column", justifyContent: "center", gap: 6 }}>
-          <div style={{ display: "flex", justifyContent: "space-between", fontSize: 11 }}>
-            <span style={{ color: COLORS.textSecondary }}>PEAK</span>
-            <span style={{ fontFamily: FONT_MONO, color: peakLevel > -1 ? COLORS.red : COLORS.amber }}>{peakLevel > -60 ? `${fmt(peakLevel, 1)} dB` : "--"}</span>
+        <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
+          <div style={{ fontSize: 13, fontWeight: 700, color: COLORS.textSecondary, textTransform: "uppercase", letterSpacing: "0.04em" }}>
+            Platform Ayarı Seç
           </div>
-          <div style={{ display: "flex", justifyContent: "space-between", fontSize: 11 }}>
-            <span style={{ color: COLORS.textSecondary }}>YAKLAŞIK LUFS</span>
-            <span style={{ fontFamily: FONT_MONO, color: COLORS.amber }}>{lufsApprox > -59 ? fmt(lufsApprox, 1) : "--"}</span>
+          <div className="preset-grid">
+            {PRESETS.map((p) => (
+              <PresetCard
+                key={p.key}
+                preset={p}
+                active={selectedKey === p.key}
+                playing={isPlaying}
+                onSelect={() => selectPreset(p.key)}
+              />
+            ))}
           </div>
-          <div style={{ fontSize: 9, color: COLORS.textMuted }}>Detaylı ölçüm için "Ölçüm" sekmesine bak</div>
+          <div style={{ fontSize: 12, color: COLORS.textMuted, lineHeight: 1.5 }}>
+            Çalarken ayarlar arasında geçiş yapabilirsin — değişiklik anında duyulur, karşılaştırıp karar verebilirsin.
+          </div>
         </div>
-      </div>
 
-      <div style={{ display: "flex", gap: 4, flexShrink: 0, borderBottom: `1px solid ${COLORS.hairline}` }}>
-        {[["konsol", "Konsol"], ["olcum", "Ölçüm"], ["stemler", "Stemler"], ["rehber", "Rehber"]].map(([key, label]) => (
-          <button
-            key={key}
-            onClick={() => setActiveTab(key)}
-            className="tab-btn"
-            style={{
-              background: "transparent",
-              border: "none",
-              borderBottom: `2px solid ${activeTab === key ? COLORS.copper : "transparent"}`,
-              color: activeTab === key ? COLORS.textPrimary : COLORS.textMuted,
-              fontFamily: FONT_DISPLAY,
-              fontSize: 12,
-              letterSpacing: "0.06em",
-              textTransform: "uppercase",
-              padding: "6px 10px",
-              cursor: "pointer",
-            }}
-          >
-            {label}
+        <div style={{
+          background: COLORS.card,
+          border: `1px solid ${COLORS.border}`,
+          borderRadius: 16,
+          padding: "18px 20px",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "space-between",
+          gap: 12,
+          flexWrap: "wrap",
+        }}>
+          <div>
+            <div style={{ fontSize: 14, fontWeight: 700 }}>
+              Seçili: <span style={{ color: activePreset.color }}>{activePreset.label}</span>
+            </div>
+            <div style={{ fontSize: 12, color: COLORS.textMuted, marginTop: 2 }}>WAV olarak, kayıp sıkıştırma olmadan indirilir.</div>
+          </div>
+          <button className="primary-btn" onClick={handleExport} disabled={!fileName || exporting}>
+            {exporting ? "Hazırlanıyor…" : "WAV Olarak İndir"}
           </button>
-        ))}
-      </div>
+        </div>
 
-      <div style={{ flex: 1, minHeight: 0, display: "flex", flexDirection: "column", gap: 8, overflow: "auto" }}>
-        {activeTab === "konsol" && (
-          <>
-            <div className="grid-eq" style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 8, flexShrink: 0 }}>
-              <Module title="EQ &middot; Bas Raf" accent={COLORS.copper}>
-                <Slider label="Frekans" value={params.eq.lowShelf.freq} min={30} max={400} step={1} unit=" Hz" onChange={(v) => updateParam(["eq", "lowShelf", "freq"], v)} />
-                <Slider label="Kazanç" value={params.eq.lowShelf.gain} min={-12} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["eq", "lowShelf", "gain"], v)} />
-              </Module>
-              <Module title="EQ &middot; Bas-Orta" accent={COLORS.copper}>
-                <Slider label="Frekans" value={params.eq.lowMid.freq} min={150} max={2000} step={1} unit=" Hz" onChange={(v) => updateParam(["eq", "lowMid", "freq"], v)} />
-                <Slider label="Kazanç" value={params.eq.lowMid.gain} min={-12} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["eq", "lowMid", "gain"], v)} />
-                <Slider label="Q (Bant Genişliği)" value={params.eq.lowMid.q} min={0.3} max={6} step={0.1} unit="" onChange={(v) => updateParam(["eq", "lowMid", "q"], v)} />
-              </Module>
-              <Module title="EQ &middot; Orta-Tiz" accent={COLORS.copper}>
-                <Slider label="Frekans" value={params.eq.highMid.freq} min={800} max={8000} step={10} unit=" Hz" onChange={(v) => updateParam(["eq", "highMid", "freq"], v)} />
-                <Slider label="Kazanç" value={params.eq.highMid.gain} min={-12} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["eq", "highMid", "gain"], v)} />
-                <Slider label="Q (Bant Genişliği)" value={params.eq.highMid.q} min={0.3} max={6} step={0.1} unit="" onChange={(v) => updateParam(["eq", "highMid", "q"], v)} />
-              </Module>
-              <Module title="EQ &middot; Tiz Raf" accent={COLORS.copper}>
-                <Slider label="Frekans" value={params.eq.highShelf.freq} min={3000} max={16000} step={50} unit=" Hz" onChange={(v) => updateParam(["eq", "highShelf", "freq"], v)} />
-                <Slider label="Kazanç" value={params.eq.highShelf.gain} min={-12} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["eq", "highShelf", "gain"], v)} />
-              </Module>
-            </div>
-
-            <div className="grid-comp" style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 8, flexShrink: 0 }}>
-              <Module title="Kompresör &middot; Bas Bant" accent={COLORS.teal}>
-                <Slider label="Geçiş Frekansı (üst)" value={params.crossover.lowMid} min={60} max={500} step={1} unit=" Hz" onChange={(v) => updateParam(["crossover", "lowMid"], v)} />
-                <Slider label="Eşik" value={params.bands.low.threshold} min={-40} max={0} step={0.5} unit=" dB" onChange={(v) => updateParam(["bands", "low", "threshold"], v)} />
-                <Slider label="Oran" value={params.bands.low.ratio} min={1} max={10} step={0.1} unit=":1" onChange={(v) => updateParam(["bands", "low", "ratio"], v)} />
-                <Slider label="Atak" value={params.bands.low.attack * 1000} min={1} max={100} step={1} unit=" ms" onChange={(v) => updateParam(["bands", "low", "attack"], v / 1000)} />
-                <Slider label="Bırakma" value={params.bands.low.release * 1000} min={30} max={800} step={5} unit=" ms" onChange={(v) => updateParam(["bands", "low", "release"], v / 1000)} />
-                <Slider label="Telafi Kazancı" value={params.bands.low.makeup} min={-6} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["bands", "low", "makeup"], v)} />
-              </Module>
-              <Module title="Kompresör &middot; Orta Bant" accent={COLORS.teal}>
-                <Slider label="Eşik" value={params.bands.mid.threshold} min={-40} max={0} step={0.5} unit=" dB" onChange={(v) => updateParam(["bands", "mid", "threshold"], v)} />
-                <Slider label="Oran" value={params.bands.mid.ratio} min={1} max={10} step={0.1} unit=":1" onChange={(v) => updateParam(["bands", "mid", "ratio"], v)} />
-                <Slider label="Atak" value={params.bands.mid.attack * 1000} min={0.5} max={100} step={0.5} unit=" ms" onChange={(v) => updateParam(["bands", "mid", "attack"], v / 1000)} />
-                <Slider label="Bırakma" value={params.bands.mid.release * 1000} min={30} max={800} step={5} unit=" ms" onChange={(v) => updateParam(["bands", "mid", "release"], v / 1000)} />
-                <Slider label="Telafi Kazancı" value={params.bands.mid.makeup} min={-6} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["bands", "mid", "makeup"], v)} />
-              </Module>
-              <Module title="Kompresör &middot; Tiz Bant" accent={COLORS.teal}>
-                <Slider label="Geçiş Frekansı (alt)" value={params.crossover.midHigh} min={1000} max={10000} step={50} unit=" Hz" onChange={(v) => updateParam(["crossover", "midHigh"], v)} />
-                <Slider label="Eşik" value={params.bands.high.threshold} min={-40} max={0} step={0.5} unit=" dB" onChange={(v) => updateParam(["bands", "high", "threshold"], v)} />
-                <Slider label="Oran" value={params.bands.high.ratio} min={1} max={10} step={0.1} unit=":1" onChange={(v) => updateParam(["bands", "high", "ratio"], v)} />
-                <Slider label="Atak" value={params.bands.high.attack * 1000} min={0.1} max={50} step={0.1} unit=" ms" onChange={(v) => updateParam(["bands", "high", "attack"], v / 1000)} />
-                <Slider label="Bırakma" value={params.bands.high.release * 1000} min={20} max={500} step={5} unit=" ms" onChange={(v) => updateParam(["bands", "high", "release"], v / 1000)} />
-                <Slider label="Telafi Kazancı" value={params.bands.high.makeup} min={-6} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["bands", "high", "makeup"], v)} />
-              </Module>
-            </div>
-
-            <div className="grid-bottom" style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1.2fr", gap: 8, flexShrink: 0 }}>
-              <Module title="Sınırlayıcı (Limiter)" accent={COLORS.red}>
-                <Slider label="Eşik (Tavan)" value={params.limiter.threshold} min={-6} max={0} step={0.1} unit=" dB" onChange={(v) => updateParam(["limiter", "threshold"], v)} />
-                <Slider label="Bırakma" value={params.limiter.release * 1000} min={20} max={500} step={5} unit=" ms" onChange={(v) => updateParam(["limiter", "release"], v / 1000)} />
-              </Module>
-              <Module title="Çıkış" accent={COLORS.amber}>
-                <Slider label="Kazanç Ayarı" value={params.outputTrim} min={-12} max={12} step={0.1} unit=" dB" onChange={(v) => updateParam(["outputTrim"], v)} />
-                <div style={{ display: "flex", gap: 8, marginTop: 4 }}>
-                  <button onClick={resetAll} style={btnStyle()}>Sıfırla</button>
-                  <button onClick={handleExport} disabled={!fileName || exporting} style={btnStyle(true)}>
-                    {exporting ? "İşleniyor\u2026" : "WAV dışa aktar"}
-                  </button>
-                </div>
-              </Module>
-              <Module title="Kayıtlı Ayarlarım" accent={COLORS.textSecondary}>
-                <div style={{ display: "flex", gap: 6 }}>
-                  <input
-                    type="text"
-                    placeholder="Ayar adı"
-                    value={newPresetName}
-                    onChange={(e) => setNewPresetName(e.target.value)}
-                    style={{ flex: 1, minWidth: 0 }}
-                  />
-                  <button onClick={saveCustomPreset} style={btnStyle()}>Kaydet</button>
-                </div>
-                <div style={{ display: "flex", flexWrap: "wrap", gap: 4, maxHeight: 46, overflow: "auto" }}>
-                  {customPresets.length === 0 && <span style={{ fontSize: 10, color: COLORS.textMuted }}>Henüz kayıt yok</span>}
-                  {customPresets.map((p) => (
-                    <span key={p.name} style={{ display: "flex", alignItems: "center", gap: 4, fontSize: 10, background: COLORS.panelRaised, border: `1px solid ${COLORS.hairline}`, padding: "2px 6px" }}>
-                      {p.name}
-                      <span onClick={() => deleteCustomPreset(p.name)} style={{ cursor: "pointer", color: COLORS.red }}>×</span>
-                    </span>
-                  ))}
-                </div>
-              </Module>
-            </div>
-          </>
-        )}
-
-        {activeTab === "olcum" && (
-          <div className="grid-olcum" style={{ display: "grid", gridTemplateColumns: "1fr 1.4fr", gap: 10, flex: 1, minHeight: 0 }}>
-            <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: 12, display: "flex", flexDirection: "column", gap: 10 }}>
-              <div style={{ display: "flex", justifyContent: "space-around" }}>
-                <div style={{ textAlign: "center", width: "45%" }}>
-                  <VUMeter level={rmsLevel} />
-                  <div style={{ fontSize: 9, color: COLORS.textMuted, letterSpacing: "0.1em" }}>RMS</div>
-                </div>
-                <div style={{ textAlign: "center", width: "45%" }}>
-                  <VUMeter level={peakLevel} />
-                  <div style={{ fontSize: 9, color: COLORS.textMuted, letterSpacing: "0.1em" }}>PEAK</div>
-                </div>
-              </div>
-              <div style={{ textAlign: "center", borderTop: `1px solid ${COLORS.hairline}`, paddingTop: 8 }}>
-                <div style={{ fontSize: 10, color: COLORS.textMuted, letterSpacing: "0.1em" }}>YAKLAŞIK ENTEGRE LUFS</div>
-                <div style={{ fontSize: 22, fontFamily: FONT_MONO, color: COLORS.amber }}>{lufsApprox > -59 ? fmt(lufsApprox, 1) : "--.-"}</div>
-                <div style={{ fontSize: 9, color: COLORS.textMuted }}>Spotify/YT Music hedefi ≈ -14 LUFS</div>
-              </div>
-              <div style={{ display: "flex", flexDirection: "column", gap: 6, borderTop: `1px solid ${COLORS.hairline}`, paddingTop: 8 }}>
-                <div style={{ fontSize: 10, color: COLORS.textMuted, letterSpacing: "0.08em", textTransform: "uppercase" }}>Kazanç Azaltma (Gain Reduction)</div>
-                <GRMeter barRef={lowGRRef} label="Bas" />
-                <GRMeter barRef={midGRRef} label="Orta" />
-                <GRMeter barRef={highGRRef} label="Tiz" />
-              </div>
-            </div>
-            <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: 12, display: "flex", flexDirection: "column", gap: 6 }}>
-              <div style={{ fontSize: 10, color: COLORS.textMuted, letterSpacing: "0.08em", textTransform: "uppercase" }}>Canlı Frekans Spektrumu</div>
-              <canvas ref={freqCanvasRef} width={500} height={220} style={{ width: "100%", height: "100%", background: "#100E0B" }} />
-              <div style={{ display: "flex", justifyContent: "space-between", fontSize: 9, color: COLORS.textMuted }}>
-                <span>Bas</span><span>Orta</span><span>Tiz</span>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {activeTab === "stemler" && (
-          <div style={{ display: "flex", flexDirection: "column", gap: 8, flex: 1, minHeight: 0 }}>
-            <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: 10, fontSize: 10.5, color: COLORS.textSecondary, lineHeight: 1.5, flexShrink: 0 }}>
-              UVR (veya benzeri) ile ayırdığın vokal, gitar, bas, davul gibi dosyaları buraya yükle. Her parçanın seviyesini ve tonunu ayrı ayrı ayarla (örneğin gitarı kıs, vokali öne çek), sonra <strong style={{ color: COLORS.amber }}>Karışımı Oluştur</strong> ile tek parçaya birleştirip Konsol'daki mastering zincirine gönder.
-            </div>
-
-            <div style={{ flexShrink: 0, display: "flex", gap: 8, alignItems: "center" }}>
-              <input ref={stemFileInputRef} type="file" accept="audio/*" multiple onChange={handleStemFiles} style={{ display: "none" }} />
-              <button onClick={() => stemFileInputRef.current.click()} style={btnStyle()}>+ Stem dosyası ekle</button>
-              <button onClick={toggleStemPreview} disabled={!stems.length} style={btnStyle(stemPreviewPlaying)}>{stemPreviewPlaying ? "Durdur" : "Çal (önizleme)"}</button>
-              <span style={{ fontSize: 9.5, color: COLORS.textMuted }}>Ayarları çalarken de değiştirebilirsin, anında duyulur.</span>
-            </div>
-
-            <div style={{ display: "flex", flexDirection: "column", gap: 6, flex: 1, minHeight: 0, overflow: "auto" }}>
-              {stems.length === 0 && (
-                <div style={{ fontSize: 11, color: COLORS.textMuted, textAlign: "center", padding: 20 }}>Henüz stem yüklenmedi.</div>
-              )}
-              {stems.map((s) => (
-                <div key={s.id} className="stem-row" style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, borderLeft: `3px solid ${s.mute ? COLORS.textMuted : COLORS.copper}`, padding: "8px 10px", display: "grid", gridTemplateColumns: "1.3fr 1fr 1fr 1fr auto", gap: 10, alignItems: "center" }}>
-                  <span style={{ fontSize: 11.5, fontFamily: FONT_MONO, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{s.name}</span>
-                  <Slider label="Kazanç" value={s.gainDb} min={-24} max={12} step={0.5} unit=" dB" onChange={(v) => updateStem(s.id, { gainDb: v })} />
-                  <Slider label="Bas" value={s.lowGain} min={-12} max={12} step={0.5} unit=" dB" onChange={(v) => updateStem(s.id, { lowGain: v })} />
-                  <Slider label="Tiz" value={s.highGain} min={-12} max={12} step={0.5} unit=" dB" onChange={(v) => updateStem(s.id, { highGain: v })} />
-                  <div style={{ display: "flex", gap: 4 }}>
-                    <button onClick={() => updateStem(s.id, { mute: !s.mute })} style={{ ...btnStyle(s.mute), padding: "4px 8px", fontSize: 10 }}>M</button>
-                    <button onClick={() => updateStem(s.id, { solo: !s.solo })} style={{ ...btnStyle(s.solo), padding: "4px 8px", fontSize: 10 }}>S</button>
-                    <button onClick={() => removeStem(s.id)} style={{ ...btnStyle(), padding: "4px 8px", fontSize: 10, color: COLORS.red, borderColor: COLORS.red }}>×</button>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            <div style={{ flexShrink: 0 }}>
-              <button onClick={buildStemMixAndSend} disabled={!stems.length || mixing} style={{ ...btnStyle(true), padding: "8px 14px", fontSize: 12 }}>
-                {mixing ? "Karıştırılıyor\u2026" : "Karışımı Oluştur ve Mastering'e Gönder"}
-              </button>
-            </div>
-          </div>
-        )}
-
-        {activeTab === "rehber" && (
-          <div style={{ background: COLORS.panel, border: `1px solid ${COLORS.hairline}`, padding: "12px 16px", overflow: "auto", flex: 1, minHeight: 0 }}>
-            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4px 24px", fontSize: 11.5, lineHeight: 1.5 }}>
-              {[
-                ["EQ (Ekolayzer)", "Belirli frekans bölgelerinin seviyesini artırıp azaltarak sesin tonal dengesini şekillendirir."],
-                ["Raf (Shelf)", "Belirlenen frekansın altını (Bas Raf) veya üstünü (Tiz Raf) topluca yükseltir/azaltır."],
-                ["Frekans", "Hangi ses bölgesinin (Hz cinsinden) etkileneceğini belirler. Düşük = bas, yüksek = tiz."],
-                ["Kazanç (Gain)", "O frekans bölgesinin ne kadar artırılıp azaltılacağı, dB cinsinden."],
-                ["Q (Bant Genişliği)", "EQ değişikliğinin ne kadar dar veya geniş bir frekans aralığını etkileyeceği."],
-                ["Kompresör", "Belirli bir seviyenin üzerindeki sesi otomatik olarak kısarak dinamik aralığı daraltır, sesi daha tutarlı yapar."],
-                ["Eşik (Threshold)", "Kompresörün devreye girmesi için sesin aşması gereken seviye."],
-                ["Oran (Ratio)", "Eşiği aşan sesin ne kadar sıkıştırılacağı. 4:1 demek, eşiği aşan her 4 dB'lik artış 1 dB'ye indirilir."],
-                ["Atak (Attack)", "Eşik aşıldıktan sonra kompresörün ne kadar hızlı devreye gireceği."],
-                ["Bırakma (Release)", "Ses eşiğin altına düştükten sonra kompresörün ne kadar sürede normale döneceği."],
-                ["Telafi Kazancı (Makeup Gain)", "Kompresyonla kaybedilen genel seviyeyi geri kazanmak için eklenen ekstra kazanç."],
-                ["Geçiş Frekansı (Crossover)", "3 bantlı kompresörde bas/orta/tiz bölgelerinin birbirinden ayrıldığı frekans noktası."],
-                ["Sınırlayıcı (Limiter)", "Sesin belirlenen bir tavanı (ör. -1 dB) kesinlikle aşmasını engelleyen çok hızlı, sert bir kompresör türü."],
-                ["Çıkış Kazancı (Trim)", "Tüm zincirden sonra son genel ses seviyesini ince ayarlar."],
-                ["Bypass", "İşlenmiş ve ham (orijinal) sesi karşılaştırmak için efektleri geçici olarak devre dışı bırakır."],
-                ["Peak", "Anlık en yüksek ses genliği; 0 dB'yi geçerse dijital bozulma (clipping) olur."],
-                ["RMS", "Sesin ortalama enerjisi; kulağın algıladığı 'yükseklik' hissine daha yakındır."],
-                ["LUFS", "Yayın platformlarının kullandığı algısal yükseklik birimi. Spotify/YouTube Music yaklaşık -14 LUFS'a normalize eder."],
-                ["Kazanç Azaltma (GR)", "Kompresörün o an sesi kaç dB kıstığını gösterir; sürekli yüksekse ayarlar çok agresif olabilir."],
-                ["Stem", "Bitmiş bir şarkının vokal, gitar, bas, davul gibi ayrı ayrı çıkarılmış tek tek parçaları."],
-                ["Mute (M) / Solo (S)", "Mute o parçayı karışımdan tamamen çıkarır. Solo işaretlenen parça(lar) varsa, sadece onlar çalar/karışıma girer."],
-              ].map(([term, desc]) => (
-                <div key={term} className="glossary-item" style={{ gridColumn: "span 2", display: "grid", gridTemplateColumns: "170px 1fr", gap: 10, borderBottom: `1px solid ${COLORS.hairline}`, padding: "5px 0" }}>
-                  <span style={{ color: COLORS.amber, fontWeight: 500 }}>{term}</span>
-                  <span style={{ color: COLORS.textSecondary }}>{desc}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-      </div>
-
-      <div style={{ fontSize: 9.5, color: COLORS.textMuted, textAlign: "center", borderTop: `1px solid ${COLORS.hairline}`, paddingTop: 5, flexShrink: 0 }}>
-        Tüm işlem tarayıcında yerel olarak yapılır — dosyalar hiçbir sunucuya gönderilmez.
+        <div style={{ fontSize: 11.5, color: COLORS.textMuted, textAlign: "center" }}>
+          Tüm işlem tarayıcında yerel olarak yapılır — dosyaların hiçbir sunucuya gönderilmez.
+        </div>
       </div>
     </div>
   );
 }
 
-function btnStyle(active) {
-  return {
-    background: active ? COLORS.copper : "transparent",
-    color: active ? "#15130F" : COLORS.textPrimary,
-    border: `1px solid ${active ? COLORS.copper : COLORS.hairline}`,
-    padding: "5px 10px",
-    fontSize: 11,
-    fontFamily: FONT_DISPLAY,
-    letterSpacing: "0.04em",
-    cursor: "pointer",
-    borderRadius: 2,
-  };
-}
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<MasteringConsole />);
+root.render(<MasteringApp />);
 </script>
 </body>
 </html>
