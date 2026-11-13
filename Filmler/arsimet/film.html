@@ -197,7 +197,7 @@ const TEMP_SUBS = Object.keys(VO_MEASURED).length === 0;
 // ---- Archive pictures (assets/archive, LICENSES.csv). Loaded before READY; a missing file draws a labelled blank.
 const ARCHIVE = {};
 const ARCHIVE_FILES = {
-  daumier: 'assets/archive/daumier.jpg', portrait: 'assets/archive/portrait.jpg', siege: 'assets/archive/siege.jpg',
+  daumier: 'assets/archive/met-678724-archim-de-riant-des-efforts-impuissants-.jpg', portrait: 'assets/archive/met-420639-archimedes-printer-s-sample-for-the-worl.jpg', siege: 'assets/archive/siege.jpg',
   mirrors: 'assets/archive/mirrors.jpg', death: 'assets/archive/death.jpg', cicero: 'assets/archive/cicero.jpg',
   palimpsest: 'assets/archive/palimpsest.jpg', palimpsestUV: 'assets/archive/palimpsest-uv.jpg', screw: 'assets/archive/screw.jpg',
   lever: 'assets/archive/lever.jpg', balance: 'assets/archive/balance.jpg', ortigia: 'assets/archive/ortigia.jpg', bath: 'assets/archive/bath.jpg',
@@ -452,7 +452,7 @@ function tag(g, x, y, label, t, o = {}) {        // a luggage tag with a source 
 }
 function insert(g, key, x, y, w, t, o = {}) {      // an archive picture pasted on the page, with a typed caption
   const img = ARCHIVE[key]; const ar = img ? img.naturalHeight / img.naturalWidth : 0.7, h = w * (o.crop ?? ar);
-  const k = o.k ?? 1; if (k <= 0) return;
+  const k = o.k ?? 1; if (k <= 0 || (!img && !o.required)) return;
   g.save(); g.translate(x, y); g.rotate(o.rot ?? 0.02); const sc = lerp(1.18, 1, EASE.out(clamp(k))); g.scale(sc, sc); g.globalAlpha = clamp(k * 3);
   g.fillStyle = 'rgba(40,30,20,0.18)'; g.fillRect(-w / 2 + 12, -h / 2 + 14, w + 24, h + 24);
   ink(g, rectPath(-w / 2 - 14, -h / 2 - 14, w + 28, h + (o.caption ? 74 : 28)), PALETTE.paper, { w: 2 });
@@ -659,6 +659,7 @@ function s0Title(g, k, t, S) {
   say(g, 'ARŞİMET', 960, 430, 190, PALETTE.ink, { role: 'display', reveal: r });
   say(g, 'Gerçek mi, Efsane mi?', 960, 600, 76, PALETTE.accent, { role: 'text', weight: 700, reveal: kin(t, a + 0.5, 0.8) });
   line(g, [[600, 690], [lerp(600, 1320, EASE.inOut(kin(t, a + 0.8, 0.8))), 690]], 4);
+  insert(g, 'portrait', 300, 520, 300, t, { k: kin(t, a + 0.3, 0.6), rot: -0.05, crop: 1.25, pan: [0, 0.18], caption: 'Hayali portre, 1888' });
   arch(g, 1540, 980, 0.32, t, { arms: 'wave', mouth: 'smile' });
 }
 
@@ -870,7 +871,8 @@ function s4Pappus(g, k, t, S) {
   tag(g, 1180, 620, 'İskenderiyeli Pappus · MS 4. yüzyıl', t, { px: 32 });
   yearline(g, [[260, '212', 'MÖ · Arşimet'], [1180, '≈ 320', 'MS · Pappus']], kin(t, at('VO51'), 1.4), 880, { x0: 200, x1: 1300 });
   span(g, 260, 1180, 820, '≈ 500 yıl', kin(t, at('VO51') + 1.3, 0.9));
-  arch(g, 420, 600, 0.34, t, { arms: 'shrug', mood: 'doubt' });
+  arch(g, 200, 760, 0.3, t, { arms: 'shrug', mood: 'doubt' });
+  insert(g, 'daumier', 680, 380, 480, t, { k: kin(t, at('VO50') + 0.5, 0.5), rot: -0.04, caption: 'H. Daumier, taşbaskı · Met' });
 }
 function s4Ship(g, k, t, S) {
   page(g, S, k, { z0: 1.05, z1: 1.0, x0: 0, x1: -60 });
