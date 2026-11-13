@@ -1,0 +1,94 @@
+VO1: Arşimet'in güneş ışığıyla Roma gemilerini yaktığı anlatılır.
+VO2: Banyodan çıplak fırladığı da.
+VO3: Bir çubukla Dünya'yı yerinden oynatabileceği de.
+VO4: Bu hikâyelerin hangisi gerçekten yaşandı?
+VO5: Bugün yedi iddia var, üç cevap.
+VO6: Doğru. Kısmen doğru. Ya da efsane.
+VO7: Her turda önce sen tahmin edeceksin.
+VO8: En inanılmazını sona sakladım.
+VO9: Üstelik o hikâye İstanbul'da geçiyor.
+VO10: Sicilya, Siraküza. Kral Hieron'un altın tacından şüphesi var.
+VO11: Kuyumcu altına gümüş karıştırmış olabilir.
+VO12: Ama tacı eritmeden bunu anlamak gerek.
+VO13: Arşimet banyoya girer. Su taşar.
+VO14: "Evreka!" diye bağırıp sokağa çıplak fırlar.
+VO15: Birinci soru: Bu hikâye doğru mu?
+VO16: Hikâyeyi ilk yazan, Romalı mimar Vitruvius.
+VO17: Hem de Arşimet'in ölümünden yaklaşık iki yüz yıl sonra.
+VO18: Galileo ise suyun içinde bir terazi kullandığını düşünüyordu.
+VO19: Ama suyun cisimleri kaldırdığını bulan gerçekten Arşimet.
+VO20: Bunu kendi kitabında, Yüzen Cisimler Üzerine'de yazdı.
+VO21: Hikâye süslenmiş, bilim sağlam. Kısmen doğru.
+VO22: Milattan önce 214. Roma donanması Siraküza surlarına dayanır.
+VO23: Anlatılana göre Arşimet askerlere parlak aynalar dağıtır.
+VO24: Güneşi tek noktaya toplarlar ve gemiler tutuşur.
+VO25: İkinci soru. Sence?
+VO26: Kuşatmayı anlatan en eski üç tarihçi var.
+VO27: Hiçbiri aynalardan söz etmez.
+VO28: Aynalar hikâyeye ancak dört yüz yıl kadar sonra girer.
+VO29: 2005'te MIT'li öğrenciler 127 aynayla denedi.
+VO30: Gemi ancak on dakika kıpırdamadan bekleyince alev aldı.
+VO31: Roma gemileri o kadar sabırlı değildi.
+VO32: Efsane.
+VO33: Aynı kuşatma. Surların üstünde dev bir vinç.
+VO34: Ucundaki demir kanca gemiyi burnundan yakalar.
+VO35: Havaya kaldırır, sonra bırakır.
+VO36: Üçüncü soru: Bu da mı fazla abartılı?
+VO37: Bu sefer kaynaklar aynı şeyi söylüyor.
+VO38: Polybios, Livius ve Plutarkhos bu makineleri anlatır.
+VO39: Adı harpagē. Yani aşağı yukarı kapkaççı.
+VO40: 2005'te mühendisler bir benzerini yedi günde kurdu.
+VO41: Ve bir gemi maketini devirmeyi başardılar.
+VO42: Doğru.
+VO43: Arşimet'e ait en ünlü söz şu:
+VO44: "Bana bir dayanak noktası verin, Dünya'yı yerinden oynatayım."
+VO45: Dördüncü soru: Bu sözü gerçekten o mu söyledi?
+VO46: Kaldıraç yasasını gerçekten o kanıtladı.
+VO47: Kol uzadıkça, aynı yükü kaldırmak kolaylaşır.
+VO48: Ama bu cümleyi bize aktaran İskenderiyeli Pappus.
+VO49: Arşimet'ten yaklaşık beş yüz yıl sonra yaşamış biri.
+VO50: Plutarkhos'ta ise Arşimet koca bir gemiyi tek başına çeker.
+VO51: Makaralarla. Tarihçiler bu ayrıntılara pek inanmıyor.
+VO52: Fikir onun, cümle sonradan. Kısmen doğru.
+VO53: Arşimet burgusu: döndükçe suyu yukarı taşıyan bir vida.
+VO54: Bugün atık su tesislerinde hâlâ çalışıyor.
+VO55: Beşinci soru: Onu Arşimet mi icat etti?
+VO56: Bazı antik yazarlar evet diyor.
+VO57: Ama burguyu anlatan Vitruvius onun adını hiç anmaz.
+VO58: Bazı araştırmacılara göre Mısırlılar onu zaten kullanıyordu.
+VO59: Belki icat etti, belki geliştirdi. Kısmen doğru.
+VO60: Milattan önce 212. Siraküza sonunda düşer.
+VO61: Roma komutanı Marcellus emir vermiştir: Arşimet'e dokunulmayacak.
+VO62: Arşimet o sırada kuma geometri çizmektedir.
+VO63: Bir asker gelir. Arşimet başını kaldırmadan konuşur:
+VO64: "Çemberlerimi bozma!"
+VO65: Altıncı soru: Son sözleri bu muydu?
+VO66: Bir Roma askerinin onu öldürdüğü doğru.
+VO67: Ama bu cümle hiçbir antik kaynakta geçmez.
+VO68: En yakını iki yüz yıldan fazla sonra yazılmış:
+VO69: "Lütfen, bunu bozma."
+VO70: Kısmen doğru.
+VO71: Yaklaşık yüz kırk yıl sonra Romalı Cicero mezarını arar.
+VO72: Çalıların altında bulur: üstünde bir küre ve bir silindir.
+VO73: Arşimet'in en değer verdiği buluş.
+VO74: Ve sona sakladığım hikâye.
+VO75: Yıl 1229, Kudüs. Eski bir kitabın sayfaları sökülür.
+VO76: Mürekkep kazınır, sayfalar yıkanır.
+VO77: Üstüne dualar yazılır.
+VO78: Kazınan yazılar, Arşimet'in kayıp kitaplarıdır.
+VO79: Son soru: Bu kitap gerçekten İstanbul'da mı bulundu?
+VO80: 1906. Danimarkalı bilgin Heiberg İstanbul'a gelir.
+VO81: Bir Rum kütüphanesinde o dua kitabını inceler.
+VO82: Silik satırların altında Arşimet'i tanır.
+VO83: Sonra kitap ortadan kaybolur. Bir mahzende küflenir.
+VO84: 1998'de New York'ta açık artırmada: 2 milyon dolar.
+VO85: On yıl boyunca morötesi ışık ve X ışınlarıyla taranır.
+VO86: Ve duaların altından Arşimet'in çizimleri geri gelir.
+VO87: İçinde, sonsuz küçük parçalarla hesap yapan bir yöntem var.
+VO88: Kalkülüsün habercisi. Newton'dan neredeyse iki bin yıl önce.
+VO89: Doğru. Hem de hepsinden doğru.
+VO90: Kaç tanesini bildin? Skorunu yorumlara yaz.
+VO91: Arşimet'in en çok anlatılan hikâyeleri, en az güvenilenleri çıktı.
+VO92: En gerçeği ise bir dua kitabının altında saklanıyordu.
+
+ON SCREEN: each round a card 'GERÇEK Mİ?' with three chips DOĞRU / KISMEN / EFSANE and a 3 s countdown; each verdict a stamp; source tags on archive pictures (Vitruvius, Galen, MIT 2005, Pappus, Valerius Maximus); year line 212 BC · 1229 · 1906 · 1998 · 2008; final card 'KAÇ TANESİNİ BİLDİN?'

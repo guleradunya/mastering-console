@@ -6,16 +6,16 @@ Method: this chat coordinates and builds what it holds the context for; a fresh 
 
 ## Resume here
 <!-- Updated at every gate and before every handoff. A new chat starts with "STATE.md'den devam et" / "Continue from STATE.md". -->
-- **Phase:** 2 Roadmap
+- **Phase:** 3 Script
 - **Pace:** <steps / through> (Film mode: asked with the script gate)
 - **Approved gates:** none
 - **Open notes:** none (notes/round-N.md)
-- **Next action:** wait for roadmap OK (ROADMAP.md, research/facts.md); then SCRIPT.md with VO line IDs for ElevenLabs
+- **Next action:** wait for script OK + pace + thesis (SCRIPT.md, review/script-cold.md fixed); then shots.json, music/voice files from user
 - **Budget so far:** <~estimate> of the <Balanced> ceiling (<n>%)
 
 ## Now
 - **Step:** 1 Interview
-- **Gate:** waiting for user: roadmap
+- **Gate:** waiting for user: script
 - **Next step:** <one concrete line>
 - **Waiting for:** <user / background job / nothing>
 - **Profile:** balanced
@@ -39,7 +39,7 @@ Method: this chat coordinates and builds what it holds the context for; a fresh 
 | Step | Gate | Result | Date | Note |
 |---|---|---|---|---|
 | 1 | interview answered / defaults accepted | style A picked after proof frames (review/proofs-v1.jpg) | 2026-11-13 | |
-| 2 | roadmap approved | | | |
+| 2 | roadmap approved | OK | 2026-11-13 | screw verdict changed to KISMEN after sources |
 | 3 | script and text approved | | | |
 | 4 | style frame approved, finishing chosen | | | |
 | 4b | type pairing picked | | | |

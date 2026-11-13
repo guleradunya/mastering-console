@@ -22,6 +22,8 @@ WC = https://en.wikipedia.org/wiki/Claw_of_Archimedes · WS = https://en.wikiped
 | 4b | "Give me a place to stand and I will move the Earth": attributed by Pappus of Alexandria | W | confirmed (Pappus lived c. 4th c. AD: about 500 years later; say "yüzyıllar sonra") |
 | 4c | Ship-moving story (Plutarch: pulley system; Hiero challenges him) has "fantastic details that are historically implausible" | W | confirmed |
 | 5a | The water screw likely predates him by a significant amount; Philo, Strabo, Vitruvius do not credit him | W | confirmed |
+| 5c | Posidonius credits him (invented in Egypt); other academics argue Egyptians already used it; Oleson: no evidence of the screw before c. his time | WS | confirmed: disputed, verdict KISMEN |
+| 5d | Screw pumps widely used today in wastewater treatment plants | WS | confirmed |
 | 5b | Athenaeus says he used a "screw" to bail the Syracusia | W | confirmed |
 | 6a | Killed by a Roman soldier in the sack of Syracuse, against Marcellus' order | W | confirmed |
 | 6b | Livy (oldest): drawing figures in the dust, the soldier did not know who he was | W | confirmed |

@@ -1,0 +1,489 @@
+{
+ "lines": [
+  {
+   "id": "VO1",
+   "chapter": "CH0",
+   "text": "Arşimet'in güneş ışığıyla Roma gemilerini yaktığı anlatılır."
+  },
+  {
+   "id": "VO2",
+   "chapter": "CH0",
+   "text": "Banyodan çıplak fırladığı da."
+  },
+  {
+   "id": "VO3",
+   "chapter": "CH0",
+   "text": "Bir çubukla Dünya'yı yerinden oynatabileceği de."
+  },
+  {
+   "id": "VO4",
+   "chapter": "CH0",
+   "text": "Bu hikâyelerin hangisi gerçekten yaşandı?"
+  },
+  {
+   "id": "VO5",
+   "chapter": "CH0",
+   "text": "Bugün yedi iddia var, üç cevap."
+  },
+  {
+   "id": "VO6",
+   "chapter": "CH0",
+   "text": "Doğru. Kısmen doğru. Ya da efsane."
+  },
+  {
+   "id": "VO7",
+   "chapter": "CH0",
+   "text": "Her turda önce sen tahmin edeceksin."
+  },
+  {
+   "id": "VO8",
+   "chapter": "CH0",
+   "text": "En inanılmazını sona sakladım."
+  },
+  {
+   "id": "VO9",
+   "chapter": "CH0",
+   "text": "Üstelik o hikâye İstanbul'da geçiyor."
+  },
+  {
+   "id": "VO10",
+   "chapter": "CH1",
+   "text": "Sicilya, Siraküza. Kral Hieron'un altın tacından şüphesi var."
+  },
+  {
+   "id": "VO11",
+   "chapter": "CH1",
+   "text": "Kuyumcu altına gümüş karıştırmış olabilir."
+  },
+  {
+   "id": "VO12",
+   "chapter": "CH1",
+   "text": "Ama tacı eritmeden bunu anlamak gerek."
+  },
+  {
+   "id": "VO13",
+   "chapter": "CH1",
+   "text": "Arşimet banyoya girer. Su taşar."
+  },
+  {
+   "id": "VO14",
+   "chapter": "CH1",
+   "text": "\"Evreka!\" diye bağırıp sokağa çıplak fırlar."
+  },
+  {
+   "id": "VO15",
+   "chapter": "CH1",
+   "text": "Taç, aynı ağırlıktaki saf altından daha çok su taşırır."
+  },
+  {
+   "id": "VO16",
+   "chapter": "CH1",
+   "text": "Demek ki içinde gümüş var. Kuyumcu yakalanır."
+  },
+  {
+   "id": "VO17",
+   "chapter": "CH1",
+   "text": "Birinci soru: Bu hikâye doğru mu?"
+  },
+  {
+   "id": "VO18",
+   "chapter": "CH1",
+   "text": "Hikâyeyi ilk yazan, Romalı mimar Vitruvius."
+  },
+  {
+   "id": "VO19",
+   "chapter": "CH1",
+   "text": "Hem de Arşimet'in ölümünden yaklaşık iki yüz yıl sonra."
+  },
+  {
+   "id": "VO20",
+   "chapter": "CH1",
+   "text": "Galileo ise suyun içinde bir terazi kullandığını düşünüyordu."
+  },
+  {
+   "id": "VO21",
+   "chapter": "CH1",
+   "text": "Ama suyun cisimleri kaldırdığını bulan gerçekten Arşimet."
+  },
+  {
+   "id": "VO22",
+   "chapter": "CH1",
+   "text": "Bunu kendi kitabında, Yüzen Cisimler Üzerine'de yazdı."
+  },
+  {
+   "id": "VO23",
+   "chapter": "CH1",
+   "text": "Hikâye süslenmiş, bilim sağlam. Kısmen doğru."
+  },
+  {
+   "id": "VO24",
+   "chapter": "CH2",
+   "text": "Milattan önce 214. Roma donanması Siraküza surlarına dayanır."
+  },
+  {
+   "id": "VO25",
+   "chapter": "CH2",
+   "text": "Anlatılana göre Arşimet askerlere parlak aynalar dağıtır."
+  },
+  {
+   "id": "VO26",
+   "chapter": "CH2",
+   "text": "Güneşi tek noktaya toplarlar ve gemiler tutuşur."
+  },
+  {
+   "id": "VO27",
+   "chapter": "CH2",
+   "text": "İkinci soru. Sence?"
+  },
+  {
+   "id": "VO28",
+   "chapter": "CH2",
+   "text": "Kuşatmayı anlatan en eski üç tarihçi: Polybios, Livius, Plutarkhos."
+  },
+  {
+   "id": "VO29",
+   "chapter": "CH2",
+   "text": "Hiçbiri aynalardan söz etmez."
+  },
+  {
+   "id": "VO30",
+   "chapter": "CH2",
+   "text": "Aynalar hikâyeye ancak dört yüz yıl kadar sonra girer."
+  },
+  {
+   "id": "VO31",
+   "chapter": "CH2",
+   "text": "2005'te MIT'li öğrenciler 127 aynayla denedi."
+  },
+  {
+   "id": "VO32",
+   "chapter": "CH2",
+   "text": "Gemi ancak on dakika kıpırdamadan bekleyince alev aldı."
+  },
+  {
+   "id": "VO33",
+   "chapter": "CH2",
+   "text": "Roma gemileri o kadar sabırlı değildi."
+  },
+  {
+   "id": "VO34",
+   "chapter": "CH2",
+   "text": "Efsane."
+  },
+  {
+   "id": "VO35",
+   "chapter": "CH3",
+   "text": "Aynı kuşatma. Surların üstünde dev bir vinç."
+  },
+  {
+   "id": "VO36",
+   "chapter": "CH3",
+   "text": "Ucundaki demir kanca gemiyi burnundan yakalar."
+  },
+  {
+   "id": "VO37",
+   "chapter": "CH3",
+   "text": "Havaya kaldırır, sonra bırakır."
+  },
+  {
+   "id": "VO38",
+   "chapter": "CH3",
+   "text": "Üçüncü soru: Bu gerçekten olmuş olabilir mi?"
+  },
+  {
+   "id": "VO39",
+   "chapter": "CH3",
+   "text": "Bu sefer kaynaklar aynı şeyi söylüyor."
+  },
+  {
+   "id": "VO40",
+   "chapter": "CH3",
+   "text": "Aynı üç tarihçi bu makineleri ayrıntılarıyla anlatır."
+  },
+  {
+   "id": "VO41",
+   "chapter": "CH3",
+   "text": "Adı harpagē. Yani aşağı yukarı kapkaççı."
+  },
+  {
+   "id": "VO42",
+   "chapter": "CH3",
+   "text": "2005'te mühendisler bir benzerini yedi günde kurdu."
+  },
+  {
+   "id": "VO43",
+   "chapter": "CH3",
+   "text": "Ve bir gemi maketini devirmeyi başardılar."
+  },
+  {
+   "id": "VO44",
+   "chapter": "CH3",
+   "text": "Doğru."
+  },
+  {
+   "id": "VO45",
+   "chapter": "CH4",
+   "text": "Arşimet'e ait en ünlü söz şu:"
+  },
+  {
+   "id": "VO46",
+   "chapter": "CH4",
+   "text": "\"Bana bir dayanak noktası verin, Dünya'yı yerinden oynatayım.\""
+  },
+  {
+   "id": "VO47",
+   "chapter": "CH4",
+   "text": "Dördüncü soru: Bu sözü gerçekten o mu söyledi?"
+  },
+  {
+   "id": "VO48",
+   "chapter": "CH4",
+   "text": "Kaldıraç yasasını gerçekten o kanıtladı."
+  },
+  {
+   "id": "VO49",
+   "chapter": "CH4",
+   "text": "Kaldıracın kolu uzadıkça, aynı yükü kaldırmak kolaylaşır."
+  },
+  {
+   "id": "VO50",
+   "chapter": "CH4",
+   "text": "Ama bu cümleyi bize aktaran İskenderiyeli Pappus."
+  },
+  {
+   "id": "VO51",
+   "chapter": "CH4",
+   "text": "Arşimet'ten yaklaşık beş yüz yıl sonra yaşamış biri."
+  },
+  {
+   "id": "VO52",
+   "chapter": "CH4",
+   "text": "Plutarkhos'ta ise Arşimet koca bir gemiyi tek başına çeker."
+  },
+  {
+   "id": "VO53",
+   "chapter": "CH4",
+   "text": "Makaralarla. Tarihçiler bu ayrıntılara pek inanmıyor."
+  },
+  {
+   "id": "VO54",
+   "chapter": "CH4",
+   "text": "Fikir onun, cümle sonradan. Kısmen doğru."
+  },
+  {
+   "id": "VO55",
+   "chapter": "CH5",
+   "text": "Arşimet burgusu: döndükçe suyu yukarı taşıyan bir sarmal."
+  },
+  {
+   "id": "VO56",
+   "chapter": "CH5",
+   "text": "Bugün atık su tesislerinde hâlâ çalışıyor."
+  },
+  {
+   "id": "VO57",
+   "chapter": "CH5",
+   "text": "Beşinci soru: Onu Arşimet mi icat etti?"
+  },
+  {
+   "id": "VO58",
+   "chapter": "CH5",
+   "text": "Bazı antik yazarlar evet diyor."
+  },
+  {
+   "id": "VO59",
+   "chapter": "CH5",
+   "text": "Ama burguyu anlatan Vitruvius onun adını hiç anmaz."
+  },
+  {
+   "id": "VO60",
+   "chapter": "CH5",
+   "text": "Bazı araştırmacılara göre Mısırlılar onu zaten kullanıyordu."
+  },
+  {
+   "id": "VO61",
+   "chapter": "CH5",
+   "text": "Belki icat etti, belki geliştirdi. Kısmen doğru."
+  },
+  {
+   "id": "VO62",
+   "chapter": "CH6",
+   "text": "Milattan önce 212. Siraküza sonunda düşer."
+  },
+  {
+   "id": "VO63",
+   "chapter": "CH6",
+   "text": "Roma komutanı Marcellus emir vermiştir: Arşimet'e dokunulmayacak."
+  },
+  {
+   "id": "VO64",
+   "chapter": "CH6",
+   "text": "Arşimet o sırada kuma geometri çizmektedir."
+  },
+  {
+   "id": "VO65",
+   "chapter": "CH6",
+   "text": "Bir asker gelir. Arşimet başını kaldırmadan konuşur:"
+  },
+  {
+   "id": "VO66",
+   "chapter": "CH6",
+   "text": "\"Çemberlerimi bozma!\""
+  },
+  {
+   "id": "VO67",
+   "chapter": "CH6",
+   "text": "Asker onu tanımaz. Kılıcını indirir."
+  },
+  {
+   "id": "VO68",
+   "chapter": "CH6",
+   "text": "Altıncı soru: Son sözleri bu muydu?"
+  },
+  {
+   "id": "VO69",
+   "chapter": "CH6",
+   "text": "Arşimet'i bir Roma askerinin öldürdüğü doğru."
+  },
+  {
+   "id": "VO70",
+   "chapter": "CH6",
+   "text": "Ama bu cümle hiçbir antik kaynakta geçmez."
+  },
+  {
+   "id": "VO71",
+   "chapter": "CH6",
+   "text": "En yakını iki yüz yıldan fazla sonra yazılmış:"
+  },
+  {
+   "id": "VO72",
+   "chapter": "CH6",
+   "text": "\"Lütfen, bunu bozma.\""
+  },
+  {
+   "id": "VO73",
+   "chapter": "CH6",
+   "text": "Kısmen doğru."
+  },
+  {
+   "id": "VO74",
+   "chapter": "CH6",
+   "text": "Yaklaşık yüz kırk yıl sonra Romalı Cicero mezarını arar."
+  },
+  {
+   "id": "VO75",
+   "chapter": "CH6",
+   "text": "Çalıların altında bulur: üstünde bir küre ve bir silindir."
+  },
+  {
+   "id": "VO76",
+   "chapter": "CH6",
+   "text": "Küre ve silindir: Arşimet'in en değer verdiği buluş."
+  },
+  {
+   "id": "VO77",
+   "chapter": "CH7",
+   "text": "Ve sona sakladığım hikâye."
+  },
+  {
+   "id": "VO78",
+   "chapter": "CH7",
+   "text": "Yıl 1229, Kudüs. Eski bir kitabın sayfaları sökülür."
+  },
+  {
+   "id": "VO79",
+   "chapter": "CH7",
+   "text": "Mürekkep kazınır, sayfalar yıkanır."
+  },
+  {
+   "id": "VO80",
+   "chapter": "CH7",
+   "text": "Üstüne dualar yazılır."
+  },
+  {
+   "id": "VO81",
+   "chapter": "CH7",
+   "text": "Kazınan yazılar, Arşimet'in kayıp kitaplarıdır."
+  },
+  {
+   "id": "VO82",
+   "chapter": "CH7",
+   "text": "Yüzyıllar içinde dua kitabı İstanbul'a, bir Rum kütüphanesine ulaşır."
+  },
+  {
+   "id": "VO83",
+   "chapter": "CH7",
+   "text": "Son soru: Bu hikâye de mi efsane?"
+  },
+  {
+   "id": "VO84",
+   "chapter": "CH7",
+   "text": "1906. Danimarkalı bilgin Heiberg İstanbul'a gelir."
+  },
+  {
+   "id": "VO85",
+   "chapter": "CH7",
+   "text": "Kütüphanede o dua kitabını inceler."
+  },
+  {
+   "id": "VO86",
+   "chapter": "CH7",
+   "text": "Silik satırların altında Arşimet'i tanır."
+  },
+  {
+   "id": "VO87",
+   "chapter": "CH7",
+   "text": "Sonra kitap ortadan kaybolur. Bir mahzende küflenir."
+  },
+  {
+   "id": "VO88",
+   "chapter": "CH7",
+   "text": "1998'de New York'ta açık artırmada: 2 milyon dolar."
+  },
+  {
+   "id": "VO89",
+   "chapter": "CH7",
+   "text": "On yıl boyunca morötesi ışık ve X ışınlarıyla taranır."
+  },
+  {
+   "id": "VO90",
+   "chapter": "CH7",
+   "text": "Ve duaların altından Arşimet'in çizimleri geri gelir."
+  },
+  {
+   "id": "VO91",
+   "chapter": "CH7",
+   "text": "İçinde, sonsuz küçük parçalarla hesap yapan bir yöntem var."
+  },
+  {
+   "id": "VO92",
+   "chapter": "CH7",
+   "text": "Kalkülüsün, yani integral hesabının ilk izi."
+  },
+  {
+   "id": "VO93",
+   "chapter": "CH7",
+   "text": "Newton'dan neredeyse iki bin yıl önce."
+  },
+  {
+   "id": "VO94",
+   "chapter": "CH7",
+   "text": "Doğru. Hem de hepsinden doğru."
+  },
+  {
+   "id": "VO95",
+   "chapter": "CH8",
+   "text": "Kaç tanesini bildin? Skorunu yorumlara yaz."
+  },
+  {
+   "id": "VO96",
+   "chapter": "CH8",
+   "text": "Arşimet'in en ünlü hikâyelerinin çoğu yarı gerçek çıktı."
+  },
+  {
+   "id": "VO97",
+   "chapter": "CH8",
+   "text": "Tam gerçek olanı ise bir dua kitabının altında saklanıyordu."
+  }
+ ]
+}

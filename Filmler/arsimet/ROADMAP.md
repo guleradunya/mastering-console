@@ -17,7 +17,7 @@ Format: 5:30 (± 20 s), 16:9, 1920x1080, 30 fps, YouTube. Medium: 2D ink caricat
 | I | 1:05–1:45 | 2 Güneş aynaları | Mirrors burned the Roman fleet · **EFSANE** (no early source; MIT 10 min still ship; MythBusters) | siege engravings |
 | II | 1:45–2:25 | 3 Demir pençe | Claw lifted ships out of the sea · **DOĞRU** (Polybius, Livy, Plutarch; 2005 rebuild tipped a model) | siege engravings, Syracuse walls photo |
 | II | 2:25–3:05 | 4 Dünyayı oynatırım | "Bana bir dayanak verin…" · **KISMEN** (lever law proven; the sentence centuries later via Pappus) | lever engraving (Mechanics Magazine 1824, PD) |
-| II | 3:05–3:40 | 5 Burgu | He invented the water screw · **EFSANE** (older; contemporaries do not credit him) | screw engravings, photo of a screw in use |
+| II | 3:05–3:40 | 5 Burgu | He invented the water screw · **KISMEN** (disputed: Posidonius credits him; Vitruvius and others do not; perhaps older, from Egypt) | screw engravings, photo of a screw in use |
 | III | 3:40–4:25 | 6 Son söz | "Çemberlerimi bozma!" · **KISMEN** (killed in 212 BC, yes; the famous words in no ancient source) + Cicero finds the tomb | death mosaic, Cicero tomb painting |
 | III | 4:25–5:15 | 7 Kayıp kitap | His lost book was scraped into a prayer book and found in İstanbul · **DOĞRU** (1229, 1906, 1998 $2 million, UV imaging) | palimpsest pages (CC BY), UV images |
 | III | 5:15–5:30 | Ending | score: "Kaç tanesini bildin?" · the UV page · end card | |
