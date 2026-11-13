@@ -1,0 +1,33 @@
+{
+ "query": "Archimedes lever Earth",
+ "type": "image",
+ "results": [
+  {
+   "source": "wikimedia",
+   "id": "92670770",
+   "title": "Archimedes'-Lever.png",
+   "creator": "ZDF/Terra X/Gruppe 5/ Susanne Utzt, Cristina Trebbi/ Jens Bo",
+   "licence": "cc-by",
+   "page": "https://commons.wikimedia.org/wiki/File:Archimedes%27-Lever.png",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Archimedes%27-Lever.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Archimedes%27-Lever.png/500px-Archimedes%27-Lever.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "type": "image",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "licence_name": "CC BY 4.0",
+   "n": 1
+  },
+  {
+   "source": "wikimedia",
+   "id": "16887615",
+   "title": "Archimedes lever.png",
+   "creator": "Unknown authorUnknown author",
+   "licence": "pd",
+   "page": "https://commons.wikimedia.org/wiki/File:Archimedes_lever.png",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Archimedes_lever.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Archimedes_lever.png/500px-Archimedes_lever.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "type": "image",
+   "licence_name": "Public domain",
+   "n": 2
+  }
+ ]
+}

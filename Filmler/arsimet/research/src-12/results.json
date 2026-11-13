@@ -1,0 +1,102 @@
+{
+ "query": "Cicero discovering tomb of Archimedes",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "100060",
+   "title": "Alexander at the Tomb of Cyrus the Great",
+   "creator": "Pierre-Henri de Valenciennes (French, 1750\u20131819)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/100060",
+   "file": "https://www.artic.edu/iiif/2/7403cc73-8d41-1464-18df-4b6e89affff0/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/7403cc73-8d41-1464-18df-4b6e89affff0/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "97328",
+   "title": "Tombeau de la chr\u00e9tienne. Vue du c\u00f4t\u00e9 nord. (Tomb of the Christian Woman. View o",
+   "creator": "John Beasley Greene",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/97328",
+   "file": "https://www.artic.edu/iiif/2/56acd70f-b28c-9126-5cca-9cd8244b6c77/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/56acd70f-b28c-9126-5cca-9cd8244b6c77/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "aic",
+   "id": "87643",
+   "title": "The Two Disciples at the Tomb",
+   "creator": "Henry Ossawa Tanner (American, 1859\u20131937)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/87643",
+   "file": "https://www.artic.edu/iiif/2/46ff0699-8905-a7d7-92f3-5210c2cc5e51/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/46ff0699-8905-a7d7-92f3-5210c2cc5e51/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "aic",
+   "id": "12073",
+   "title": "The Tomb of a Bishop",
+   "creator": "Battista Angolo del Moro (Italian, c.1515-c.1573)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/12073",
+   "file": "https://www.artic.edu/iiif/2/f3acccec-f97c-eca0-6be7-5925db193110/full/2118,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/f3acccec-f97c-eca0-6be7-5925db193110/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "aic",
+   "id": "105691",
+   "title": "Egypt",
+   "creator": "R. M. Junghaendel (German, active 19th century) and C. G. Ra",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/105691",
+   "file": "https://www.artic.edu/iiif/2/33f9b78e-2c97-cddc-745a-ba3e4ed6273c/full/2399,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/33f9b78e-2c97-cddc-745a-ba3e4ed6273c/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "aic",
+   "id": "73236",
+   "title": "Mastiff (Tomb Figurine)",
+   "creator": "China",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/73236",
+   "file": "https://www.artic.edu/iiif/2/19eaa765-61f0-62f2-1aaf-e35196dd18af/full/2856,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/19eaa765-61f0-62f2-1aaf-e35196dd18af/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 6
+  },
+  {
+   "source": "aic",
+   "id": "147007",
+   "title": "Winged Beast (Tomb Figure)",
+   "creator": "China",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/147007",
+   "file": "https://www.artic.edu/iiif/2/e4dc27a9-ea6c-0a72-def0-507245f1e44c/full/2846,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/e4dc27a9-ea6c-0a72-def0-507245f1e44c/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 7
+  },
+  {
+   "source": "aic",
+   "id": "4931",
+   "title": "The Discovery of the Tomb of Punchinello, from Scherzi",
+   "creator": "Giovanni Battista Tiepolo",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/4931",
+   "file": "https://www.artic.edu/iiif/2/8911734f-bd9a-cd3b-979a-be1ee66a132e/full/2002,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/8911734f-bd9a-cd3b-979a-be1ee66a132e/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 8
+  }
+ ]
+}

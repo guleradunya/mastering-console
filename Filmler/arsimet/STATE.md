@@ -6,27 +6,27 @@ Method: this chat coordinates and builds what it holds the context for; a fresh 
 
 ## Resume here
 <!-- Updated at every gate and before every handoff. A new chat starts with "STATE.md'den devam et" / "Continue from STATE.md". -->
-- **Phase:** 3 Script
-- **Pace:** <steps / through> (Film mode: asked with the script gate)
-- **Approved gates:** none
+- **Phase:** 6 Draft (pace through)
+- **Pace:** through
+- **Approved gates:** interview, roadmap, script (thesis A)
 - **Open notes:** none (notes/round-N.md)
-- **Next action:** wait for script OK + pace + thesis (SCRIPT.md, review/script-cold.md fixed); then shots.json, music/voice files from user
+- **Next action:** archive pictures (helper → review/sourcing.md) into film.html ARCHIVE_FILES; then `make.py draft`; when the user's CH0..CH8 narration and music arrive: split into VO lines (audio/vo/), fill VO_MEASURED, OWN_MUSIC, audio/mix.json, re-draft
 - **Budget so far:** <~estimate> of the <Balanced> ceiling (<n>%)
 
 ## Now
-- **Step:** 1 Interview
-- **Gate:** waiting for user: script
+- **Step:** 6 draft cut
+- **Gate:** draft cut (next)
 - **Next step:** <one concrete line>
 - **Waiting for:** <user / background job / nothing>
 - **Profile:** balanced
 - **Voice:** narration recorded by the user in ElevenLabs from the script I give; files to come (user)
 - **Purpose:** cinematic (documentary explainer) (`/root/.claude/skills/cinecode/references/purpose-<cinematic|ad>.md`)
-- **Format:** 5-6 min, 16:9, 1920x1080, 30 fps (YouTube)
+- **Format:** ~6 min (from the narration), 16:9, 1920x1080, 24 fps (YouTube; drawings on twos)
 - **Medium:** yarı karikatür yarı ciddi: 2D cartoon animation + open-licence real images and footage (user)
 - **Look:** A · Taşbaskı karikatür: Daumier-style ink hatching on cream paper, one terracotta accent (#a24f2b), ink #2a2420, paper #e7dcc6; archive prints pasted in as framed relics; type Young Serif (proof)
-- **Finishing:** <none · motion blur (shots) · print tone · gate weave> <!-- off by default; chosen at the style frame -->
+- **Finishing:** none (pace through: ★ default off)
 - **Music:** own: instrumental the user generates from my prompt, file to come (user) <!-- always asked, the recording picked by ear -->
-- **Type:** <pairing id: display + text (+ mono) · user's reason · type direction (case, align, scale) · rule breaks named, or none>
+- **Type:** Young Serif (display) + EB Garamond (text) + Courier Prime (mono, archive tags) · ★ under pace through
 - **Subtitles:** off
 - **Last output:** <path, version>
 - **Disk free at last check:** <GB, date>
@@ -50,6 +50,9 @@ Method: this chat coordinates and builds what it holds the context for; a fresh 
 ## Decisions
 | Date | Decision | Why | Who |
 |---|---|---|---|
+| 2026-11-13 | Engine: film.html (canvas 2D) in Film mode, src/film-section.js spliced by logs/splice.py | no WebGL in this container; 2D ink style needs none | agent |
+| 2026-11-13 | Timing built from VO_LINES durations (estimates until VO_MEASURED) | narration recorded later by the user | agent |
+| 2026-11-13 | Temporary subtitles in drafts until the voice arrives | the user can follow the draft without narration | agent |
 
 ## Notes rounds
 Verbatim notes and the per-shot split live in `notes/round-N.md`.
