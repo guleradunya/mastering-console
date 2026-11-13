@@ -1,0 +1,42 @@
+{
+ "query": "Sicily coast",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "14309",
+   "title": "Coast Scene, Bathers",
+   "creator": "James McNeill Whistler (American, 1834–1903)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/14309",
+   "file": "https://www.artic.edu/iiif/2/5888c23a-635f-396a-117b-2223032c0201/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/5888c23a-635f-396a-117b-2223032c0201/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "8971",
+   "title": "Coast of Maine",
+   "creator": "Winslow Homer (American, 1836–1910)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/8971",
+   "file": "https://www.artic.edu/iiif/2/de060306-b5a3-5139-cad9-57e9c274d7c3/full/2823,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/de060306-b5a3-5139-cad9-57e9c274d7c3/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "met",
+   "id": "437975",
+   "title": "Sunset after a Storm on the Coast of Sicily",
+   "creator": "Andreas Achenbach",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/437975",
+   "file": "https://images.metmuseum.org/CRDImages/ep/original/DP-34962-001.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-34962-001.jpg",
+   "type": "image",
+   "n": 3
+  }
+ ]
+}

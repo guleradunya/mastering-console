@@ -1,0 +1,54 @@
+{
+ "query": "Daumier lithograph",
+ "type": "image",
+ "results": [
+  {
+   "source": "met",
+   "id": "678724",
+   "title": "Archimède riant des efforts impuissants que font les Anglais pour mettre à flot ",
+   "creator": "Honoré Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/678724",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP876674.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP876674.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "met",
+   "id": "420639",
+   "title": "Archimedes, printer's sample for the World's Inventors souvenir album (A25) for ",
+   "creator": "Allen & Ginter",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/420639",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP838812.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838812.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "met",
+   "id": "756777",
+   "title": "Monsieur, I am bound to advise you that they are in the process of verifying Mon",
+   "creator": "Honoré Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/756777",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP877882.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP877882.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "met",
+   "id": "393301",
+   "title": "Mlle. Etienne-Joconde-Cunégonde-Bécassin de Constitutionnel...",
+   "creator": "Honoré Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/393301",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP818597.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP818597.jpg",
+   "type": "image",
+   "n": 4
+  }
+ ]
+}

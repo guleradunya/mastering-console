@@ -1,0 +1,126 @@
+{
+ "query": "Archimedes",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "11",
+   "title": "Self-Portrait",
+   "creator": "Walter Shirlaw (American, 1838\u20131909)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/11",
+   "file": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "111",
+   "title": "Martin Vanden Bogaert Desjardins",
+   "creator": "G\u00e9rard Edelinck (French, born Flanders, 1640-1707)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/111",
+   "file": "https://www.artic.edu/iiif/2/13bb7117-5115-b409-1dbb-1d9c1d70a5c9/full/2312,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/13bb7117-5115-b409-1dbb-1d9c1d70a5c9/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "aic",
+   "id": "27",
+   "title": "Remembrance of Italy",
+   "creator": "Jean-Baptiste-Camille Corot (French, 1796-1875)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/27",
+   "file": "https://www.artic.edu/iiif/2/ab107179-7106-937e-7676-e0263b02e530/full/1558,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/ab107179-7106-937e-7676-e0263b02e530/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "aic",
+   "id": "4",
+   "title": "Priest and Boy",
+   "creator": "Lawrence Carmichael Earle",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/4",
+   "file": "https://www.artic.edu/iiif/2/1753b638-d4fb-8e45-3db9-92dde7f053da/full/557,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/1753b638-d4fb-8e45-3db9-92dde7f053da/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "aic",
+   "id": "27992",
+   "title": "A Sunday on La Grande Jatte \u2014 1884",
+   "creator": "Georges Seurat (French, 1859\u20131891)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/27992",
+   "file": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "aic",
+   "id": "65",
+   "title": "Fishing Craft near the Cliffs at Collioure",
+   "creator": "Adolphe Appian",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/65",
+   "file": "https://www.artic.edu/iiif/2/6983bf9e-3cd8-c42d-4c91-cd646c97399c/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/6983bf9e-3cd8-c42d-4c91-cd646c97399c/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 6
+  },
+  {
+   "source": "met",
+   "id": "420639",
+   "title": "Archimedes, printer's sample for the World's Inventors souvenir album (A25) for ",
+   "creator": "Allen & Ginter",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/420639",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP838812.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838812.jpg",
+   "type": "image",
+   "n": 7
+  },
+  {
+   "source": "met",
+   "id": "251192",
+   "title": "Bronze steelyard",
+   "creator": "Roman",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/251192",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DP121459.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121459.jpg",
+   "type": "image",
+   "n": 8
+  },
+  {
+   "source": "met",
+   "id": "410773",
+   "title": "Rock of the Philosphers, or Mount Parnassus, many ancient philosophers gathered ",
+   "creator": "Stefano della Bella",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/410773",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP833262.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP833262.jpg",
+   "type": "image",
+   "n": 9
+  },
+  {
+   "source": "met",
+   "id": "678724",
+   "title": "Archim\u00e8de riant des efforts impuissants que font les Anglais pour mettre \u00e0 flot ",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/678724",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP876674.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP876674.jpg",
+   "type": "image",
+   "n": 10
+  }
+ ]
+}

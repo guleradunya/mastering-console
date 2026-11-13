@@ -1,0 +1,150 @@
+{
+ "query": "Euclid geometry diagram",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "133167",
+   "title": "Geometry",
+   "creator": "Etienne Delaune",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/133167",
+   "file": "https://www.artic.edu/iiif/2/2a2d4262-05f6-da08-b1e6-60d88461b57e/full/569,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/2a2d4262-05f6-da08-b1e6-60d88461b57e/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "196347",
+   "title": "Plan of Chicago, Chicago, Illinois, Diagram Showing City Growth",
+   "creator": "Daniel Hudson Burnham (American, 1846-1912)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/196347",
+   "file": "https://www.artic.edu/iiif/2/8da8a9e1-48f7-9bc1-982a-2206dae4f522/full/1769,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/8da8a9e1-48f7-9bc1-982a-2206dae4f522/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "aic",
+   "id": "112335",
+   "title": "Venus in Vulcan's Forge (recto); Geometry (verso)",
+   "creator": "Hermann Weyer (German, c. 1596-1621)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/112335",
+   "file": "https://www.artic.edu/iiif/2/7786143d-ffef-cba0-dc08-b74bc956abc7/full/1799,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/7786143d-ffef-cba0-dc08-b74bc956abc7/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "aic",
+   "id": "196332",
+   "title": "Plan of Chicago, Chicago, Illinois, Railroad Circuits Diagram",
+   "creator": "Daniel Hudson Burnham (American, 1846-1912)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/196332",
+   "file": "https://www.artic.edu/iiif/2/be9ed8a8-62d9-8fde-7ffb-29d9361d5cee/full/1842,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/be9ed8a8-62d9-8fde-7ffb-29d9361d5cee/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "aic",
+   "id": "230315",
+   "title": "Student Notebook Containing Notes, Diagrams and Swatches",
+   "creator": "Alfred Fehr (Switzerland, 1879-1955)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/230315",
+   "file": "https://www.artic.edu/iiif/2/3dba756a-7b67-c7b0-f170-03b3494ace84/full/2963,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/3dba756a-7b67-c7b0-f170-03b3494ace84/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "aic",
+   "id": "63973",
+   "title": "Diagram",
+   "creator": "Charles Meryon",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/63973",
+   "file": "https://www.artic.edu/iiif/2/93bb1bb5-db3a-f9c5-0e5a-a40718d0ae6a/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/93bb1bb5-db3a-f9c5-0e5a-a40718d0ae6a/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 6
+  },
+  {
+   "source": "met",
+   "id": "356589",
+   "title": "Sphaera Mundi",
+   "creator": "Johannes de Sacrobosco (John Holybush)",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/356589",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP108940.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108940.jpg",
+   "type": "image",
+   "n": 7
+  },
+  {
+   "source": "met",
+   "id": "591824",
+   "title": "\"Alberti Dvreri pictoris et architecti praestantissimi De vrbibvs...\"",
+   "creator": "Albrecht D\u00fcrer",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/591824",
+   "file": "https://images.metmuseum.org/CRDImages/li/original/li125.97 D932.R.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/li/web-large/li125.97 D932.R.jpg",
+   "type": "image",
+   "n": 8
+  },
+  {
+   "source": "met",
+   "id": "349058",
+   "title": "Underweysung der messung mit dem zirckel un richt scheyt",
+   "creator": "Albrecht D\u00fcrer",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/349058",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP374064.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP374064.jpg",
+   "type": "image",
+   "n": 9
+  },
+  {
+   "source": "met",
+   "id": "369583",
+   "title": "An Academy of Painters",
+   "creator": "Pierfrancesco Alberti",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/369583",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP836964.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP836964.jpg",
+   "type": "image",
+   "n": 10
+  },
+  {
+   "source": "met",
+   "id": "390521",
+   "title": "Bed Pillars, in Chippendale Drawings, Vol. I",
+   "creator": "Thomas Chippendale",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/390521",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP104170.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP104170.jpg",
+   "type": "image",
+   "n": 11
+  },
+  {
+   "source": "met",
+   "id": "356729",
+   "title": "L'Idea della Architettura",
+   "creator": "Vincenzo Scamozzi",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/356729",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP109546.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP109546.jpg",
+   "type": "image",
+   "n": 12
+  }
+ ]
+}

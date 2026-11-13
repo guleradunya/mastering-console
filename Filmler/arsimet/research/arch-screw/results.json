@@ -1,0 +1,78 @@
+{
+ "query": "Archimedes screw",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "55123",
+   "title": "Dressing Table",
+   "creator": "Artist unknown (American, 18th century)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/55123",
+   "file": "https://www.artic.edu/iiif/2/770875be-8b9f-a80f-9ab1-7882f2acca44/full/2489,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/770875be-8b9f-a80f-9ab1-7882f2acca44/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "35629",
+   "title": "Pembroke Table",
+   "creator": "Artist unknown (American, 18th\u201319th century)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/35629",
+   "file": "https://www.artic.edu/iiif/2/aa0e72f9-2e19-3d63-e16c-53eb2b6d3216/full/2179,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/aa0e72f9-2e19-3d63-e16c-53eb2b6d3216/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "aic",
+   "id": "104084",
+   "title": "Table",
+   "creator": "Artist unknown (American, 17th\u201318th century)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/104084",
+   "file": "https://www.artic.edu/iiif/2/53845f6c-706b-d658-877c-be640d5a8f09/full/2257,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/53845f6c-706b-d658-877c-be640d5a8f09/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "aic",
+   "id": "260455",
+   "title": "Crab Inkstand",
+   "creator": "Tiffany Studios (American, 1902\u201332)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/260455",
+   "file": "https://www.artic.edu/iiif/2/0b41b3b6-f3e6-73a4-49ff-4ee4143cc19d/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/0b41b3b6-f3e6-73a4-49ff-4ee4143cc19d/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "aic",
+   "id": "61911",
+   "title": "Card Table",
+   "creator": "Artist unknown (American, 19th century)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/61911",
+   "file": "https://www.artic.edu/iiif/2/96756f4c-3e17-48cb-e5ed-a3a2f8ae533e/full/2448,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/96756f4c-3e17-48cb-e5ed-a3a2f8ae533e/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "aic",
+   "id": "11",
+   "title": "Self-Portrait",
+   "creator": "Walter Shirlaw (American, 1838\u20131909)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/11",
+   "file": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 6
+  }
+ ]
+}

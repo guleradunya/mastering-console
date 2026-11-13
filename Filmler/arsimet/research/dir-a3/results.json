@@ -1,0 +1,78 @@
+{
+ "query": "Daumier lithograph",
+ "type": "image",
+ "results": [
+  {
+   "source": "met",
+   "id": "756782",
+   "title": "A deputy's nightmare: \u2013 Oh my friend, what has happened? \u2013 I dreamed I was inval",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/756782",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP877878.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP877878.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "met",
+   "id": "756622",
+   "title": "Will he be God, a table, or a basin?, from \"News of the day\"",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/756622",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP877754.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP877754.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "met",
+   "id": "756777",
+   "title": "Monsieur, I am bound to advise you that they are in the process of verifying Mon",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/756777",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP877882.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP877882.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "met",
+   "id": "365043",
+   "title": "The Past, the Present, and the Future (Le pass\u00e9 \u2013 Le pr\u00e9sent \u2013 L'Avenir), publis",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/365043",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP808888.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808888.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "met",
+   "id": "356494",
+   "title": "Le ventre l\u00e9gislatif: Aspect des bancs minist\u00e9riels de la chambre improstitu\u00e9e d",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/356494",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP106348.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP106348.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "met",
+   "id": "393301",
+   "title": "Mlle. Etienne-Joconde-Cun\u00e9gonde-B\u00e9cassin de Constitutionnel...",
+   "creator": "Honor\u00e9 Daumier",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/393301",
+   "file": "https://images.metmuseum.org/CRDImages/dp/original/DP818597.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP818597.jpg",
+   "type": "image",
+   "n": 6
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "deals": [
+  {
+   "category": "spark",
+   "seed": "2026-11-13:arsimet#1",
+   "dealt": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "redeal_reason": null,
+   "pick": "s3",
+   "reason": "brisk and bright, a timeless fable: claims told as fables then checked",
+   "at": "2026-11-13T18:32",
+   "texts": {
+    "s1": "seed: chovgan · place: an Arctic research hut · form: split screen, two sides converging · medium: papier-mâché · tone: quiet resolve · colour: aurora green and violet",
+    "s2": "seed: Wild 2 Features · place: a chess club · form: a trailer for a film that does not exist · medium: origami · colour: rainbow · engine: a return",
+    "s3": "seed: Bourges Cathedral · place: a beehive · form: slow motion only · medium: rotoscope · tone: brisk and bright · era: a timeless fable"
+   },
+   "seeds": {
+    "s1": {
+     "name": "chovgan",
+     "fact": "traditional Karabakh horse-riding game in the Republic of Azerbaijan, Azerbaijan, Iran",
+     "link": "https://en.wikipedia.org/wiki/Chovgan",
+     "pool": "custom"
+    },
+    "s2": {
+     "name": "Wild 2 Features",
+     "fact": "These images taken by NASA's Stardust spacecraft highlight the diverse features that make up the surface of comet Wild 2, showing a variety of small pinnacles and mesas seen on the limb of the comet and the location of a 2-kilometer (1.2-mile) series of…",
+     "link": "https://images.nasa.gov/details/PIA06284",
+     "pool": "sky"
+    },
+    "s3": {
+     "name": "Bourges Cathedral",
+     "fact": "cathedral in Bourges, Cher, France, France",
+     "link": "https://en.wikipedia.org/wiki/Bourges_Cathedral",
+     "pool": "place"
+    }
+   }
+  },
+  {
+   "category": "angle",
+   "seed": "2026-11-13:arsimet#1",
+   "dealt": [
+    "one-moment-stretched",
+    "aftermath-only",
+    "scale-flip"
+   ],
+   "redeal_reason": null,
+   "pick": "scale-flip",
+   "reason": "the lever line: one man and a stick against the whole Earth; each claim flips small and vast",
+   "at": "2026-11-13T18:32"
+  },
+  {
+   "category": "sound",
+   "seed": "2026-11-13:arsimet#1",
+   "dealt": [
+    "toy-orchestra",
+    "small-world-heard-huge",
+    "only-the-microphone"
+   ],
+   "redeal_reason": null,
+   "pick": "toy-orchestra",
+   "reason": "quiz reveals need a playful sting family (pizzicato, glockenspiel) under the user's own music",
+   "at": "2026-11-13T18:32"
+  },
+  {
+   "category": "look",
+   "seed": "2026-11-13:arsimet#1",
+   "dealt": [
+    "l1",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "l6"
+   ],
+   "redeal_reason": null,
+   "pick": null,
+   "reason": null,
+   "at": "2026-11-13T18:32",
+   "texts": {
+    "l1": "Bernd and Hilla Becher: typologies, grids of structures",
+    "l2": "Norman McLaren: drawn-on-film, abstract rhythm",
+    "l3": "Linocut: carved marks, two colours",
+    "l4": "Science lecture chalkboard: hand diagrams",
+    "l5": "Memphis Design: squiggles, pastel clash",
+    "l6": "Denis Villeneuve: monumental scale, fog, minimal colour"
+   }
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "query": "red-figure kylix",
+ "type": "image",
+ "results": [
+  {
+   "source": "met",
+   "id": "910532",
+   "title": "Red-figure calyx-krater",
+   "creator": "Greek, Boeotian (or Attic)",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/910532",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DP-35866-002.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-35866-002.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "met",
+   "id": "686702",
+   "title": "Terracotta fragment of a kylix (drinking cup)",
+   "creator": "Greek, Attic",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/686702",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DVB02264_1_ff.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DVB02264_1_ff.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "met",
+   "id": "240053",
+   "title": "Kylix",
+   "creator": "Cypriot",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/240053",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DP-42816-001.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-42816-001.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "met",
+   "id": "250765",
+   "title": "Fragment of a terracotta kylix (drinking cup)",
+   "creator": "Eucharides Painter",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/250765",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DP115788.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP115788.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "met",
+   "id": "668531",
+   "title": "Terracotta fragment of a kylix (drinking cup)",
+   "creator": "Greek, Attic",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/668531",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DVB00621_1_ff.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DVB00621_1_ff.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "met",
+   "id": "713981",
+   "title": "Terracotta fragments of a kylix (drinking cup)",
+   "creator": "Makron",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/713981",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DVB05528_1_ff.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DVB05528_1_ff.jpg",
+   "type": "image",
+   "n": 6
+  },
+  {
+   "source": "aic",
+   "id": "164",
+   "title": "Column-Krater (Mixing Bowl)",
+   "creator": "Attributed to a Member of the Earlier Mannerist Group",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/164",
+   "file": "https://www.artic.edu/iiif/2/f7c96efa-2b60-565e-3b03-a3acf7f79ea9/full/1831,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/f7c96efa-2b60-565e-3b03-a3acf7f79ea9/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 7
+  },
+  {
+   "source": "aic",
+   "id": "246",
+   "title": "Oinochoe (Pitcher)",
+   "creator": "Attributed to the Mattinata Painter",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/246",
+   "file": "https://www.artic.edu/iiif/2/44abac03-4d36-aac6-f44e-ffe1d57dfb03/full/997,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/44abac03-4d36-aac6-f44e-ffe1d57dfb03/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 8
+  },
+  {
+   "source": "aic",
+   "id": "616",
+   "title": "Pyxis (Container for Personal Objects)",
+   "creator": "Greek; Athens",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/616",
+   "file": "https://www.artic.edu/iiif/2/aeb6ae53-78e6-b76d-1993-dd108da55710/full/1727,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/aeb6ae53-78e6-b76d-1993-dd108da55710/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 9
+  },
+  {
+   "source": "aic",
+   "id": "185",
+   "title": "Kylix (Drinking Cup)",
+   "creator": "Attributed to the Penthesilea Painter",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/185",
+   "file": "https://www.artic.edu/iiif/2/9312601d-c20c-289e-c026-eafc676c5116/full/2942,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/9312601d-c20c-289e-c026-eafc676c5116/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 10
+  },
+  {
+   "source": "aic",
+   "id": "181",
+   "title": "Amphora (Storage Jar)",
+   "creator": "Attributed to the Ixion Painter",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/181",
+   "file": "https://www.artic.edu/iiif/2/d8fab7c6-8cc9-1c02-18db-0f198775ccc9/full/1200,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/d8fab7c6-8cc9-1c02-18db-0f198775ccc9/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 11
+  },
+  {
+   "source": "aic",
+   "id": "166",
+   "title": "Amphora (Storage Jar)",
+   "creator": "Attributed to the Achilles Painter",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/166",
+   "file": "https://www.artic.edu/iiif/2/7605118c-b634-cd1f-2c92-b1406ffb1071/full/1768,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/7605118c-b634-cd1f-2c92-b1406ffb1071/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 12
+  }
+ ]
+}

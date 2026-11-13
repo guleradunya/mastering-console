@@ -1,0 +1,114 @@
+{
+ "query": "Sicily coast",
+ "type": "image",
+ "results": [
+  {
+   "source": "aic",
+   "id": "495",
+   "title": "Coast Scene",
+   "creator": "Attributed to Reinier Nooms (Reinier Zeeman; Dutch, c. 1623-",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/495",
+   "file": "https://www.artic.edu/iiif/2/5a47a0b8-d21b-b5ae-c8f2-3b99476e6e75/full/2025,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/5a47a0b8-d21b-b5ae-c8f2-3b99476e6e75/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 1
+  },
+  {
+   "source": "aic",
+   "id": "14309",
+   "title": "Coast Scene, Bathers",
+   "creator": "James McNeill Whistler (American, 1834\u20131903)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/14309",
+   "file": "https://www.artic.edu/iiif/2/5888c23a-635f-396a-117b-2223032c0201/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/5888c23a-635f-396a-117b-2223032c0201/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 2
+  },
+  {
+   "source": "aic",
+   "id": "8971",
+   "title": "Coast of Maine",
+   "creator": "Winslow Homer (American, 1836\u20131910)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/8971",
+   "file": "https://www.artic.edu/iiif/2/de060306-b5a3-5139-cad9-57e9c274d7c3/full/2823,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/de060306-b5a3-5139-cad9-57e9c274d7c3/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 3
+  },
+  {
+   "source": "aic",
+   "id": "18757",
+   "title": "Ceremonial Knife (Tumi)",
+   "creator": "Chim\u00fa",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/18757",
+   "file": "https://www.artic.edu/iiif/2/801ac46f-ead4-a77a-8523-34dfade43877/full/1266,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/801ac46f-ead4-a77a-8523-34dfade43877/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 4
+  },
+  {
+   "source": "aic",
+   "id": "152747",
+   "title": "York Harbor, Coast of Maine",
+   "creator": "Martin Johnson Heade (American, 1819\u20131904)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/152747",
+   "file": "https://www.artic.edu/iiif/2/3192ae4d-ffca-fe91-af12-2ca681f43e13/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/3192ae4d-ffca-fe91-af12-2ca681f43e13/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 5
+  },
+  {
+   "source": "aic",
+   "id": "100489",
+   "title": "The Coast of Labrador",
+   "creator": "William Bradford (American, 1823\u20131892)",
+   "licence": "cc0",
+   "page": "https://www.artic.edu/artworks/100489",
+   "file": "https://www.artic.edu/iiif/2/4c5abec2-d94f-9afa-b689-de4dc93791f2/full/3000,/0/default.jpg",
+   "thumb": "https://www.artic.edu/iiif/2/4c5abec2-d94f-9afa-b689-de4dc93791f2/full/200,/0/default.jpg",
+   "type": "image",
+   "n": 6
+  },
+  {
+   "source": "met",
+   "id": "437975",
+   "title": "Sunset after a Storm on the Coast of Sicily",
+   "creator": "Andreas Achenbach",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/437975",
+   "file": "https://images.metmuseum.org/CRDImages/ep/original/DP-34962-001.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-34962-001.jpg",
+   "type": "image",
+   "n": 7
+  },
+  {
+   "source": "met",
+   "id": "252573",
+   "title": "Terracotta protome of a woman",
+   "creator": "Greek, Rhodian",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/252573",
+   "file": "https://images.metmuseum.org/CRDImages/gr/original/DP-46826-001.jpg",
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-46826-001.jpg",
+   "type": "image",
+   "n": 8
+  },
+  {
+   "source": "met",
+   "id": "461568",
+   "title": "Sketchbook: Souvenir of Naples",
+   "creator": "Unknown Artist",
+   "licence": "cc0",
+   "page": "https://www.metmuseum.org/art/collection/search/461568",
+   "file": "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-557-a.JPG",
+   "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/sf-rlc-1975-1-557-a.JPG",
+   "type": "image",
+   "n": 9
+  }
+ ]
+}
