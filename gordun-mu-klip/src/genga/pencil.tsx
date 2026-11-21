@@ -3,9 +3,12 @@ import { interpolate, useCurrentFrame, Easing } from "remotion";
 
 // Hand-drawn animation is shot "on threes": the drawing only changes every 3rd frame.
 export const ON = 3;
+/** Per-cut speed factor so a drawing designed for N frames fits a shorter cut. */
+export const TimeScale = React.createContext(1);
 export const useStepFrame = () => {
   const frame = useCurrentFrame();
-  return Math.floor(frame / ON) * ON;
+  const scale = React.useContext(TimeScale);
+  return Math.floor(frame / ON) * ON * scale;
 };
 
 export const GRAPHITE = "#3b3a3d";

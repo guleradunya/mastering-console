@@ -24,7 +24,8 @@ export const Written: React.FC<{
   cps?: number; // characters per second at 24fps
   style?: React.CSSProperties;
 }> = ({ text, start, cps = 14, style }) => {
-  const step = useStepFrame();
+  const frame = useCurrentFrame();
+  const step = Math.floor(frame / 3) * 3;
   const n = Math.floor(Math.max(0, step - start) * (cps / 24));
   return (
     <span style={style}>
@@ -40,6 +41,7 @@ type SheetProps = {
   length: string;
   lyric?: string;
   lyricStart?: number;
+  lyricCps?: number;
   note?: string;
   children: React.ReactNode;
 };
@@ -53,6 +55,7 @@ export const Sheet: React.FC<SheetProps> = ({
   length,
   lyric,
   lyricStart = 6,
+  lyricCps = 16,
   note,
   children,
 }) => {
@@ -265,7 +268,7 @@ export const Sheet: React.FC<SheetProps> = ({
               >
                 セリフ
               </span>
-              <Written text={lyric} start={lyricStart} cps={16} />
+              <Written text={lyric} start={lyricStart} cps={lyricCps} />
             </div>
           </div>
         ) : null}
