@@ -1,0 +1,7 @@
+node_modules
+dist
+out
+.DS_Store
+.env
+# the song is yours: drop it in public/, it is not committed
+public/*.mp3
